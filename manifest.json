@@ -1,4 +1,83 @@
 {
-  "generated": "2026-04-06T15:32:27.226Z",
-  "entries": []
+  "generated": "2026-04-09T17:17:18.852Z",
+  "entries": [
+    {
+      "slug": "Agent_Friendly_Web",
+      "title": "Agent-Friendly Web",
+      "description": "Jan Wilmake's mission to make the open internet accessible to AI agents through token-dense URL mirrors",
+      "category": "Concepts"
+    },
+    {
+      "slug": "Jan_Wilmake",
+      "title": "Jan Wilmake",
+      "description": "Dutch software developer, entrepreneur, and AI researcher based in Groningen",
+      "category": "People"
+    },
+    {
+      "slug": "ActionSchema",
+      "title": "ActionSchema",
+      "description": "AI-powered spreadsheet and data-pipeline tool developed by Jan Wilmake",
+      "category": "Projects"
+    },
+    {
+      "slug": "ContextArea",
+      "title": "ContextArea",
+      "description": "Web-based context engineering and MCP client tool by Jan Wilmake; launched February 2026",
+      "category": "Projects"
+    },
+    {
+      "slug": "forgithub",
+      "title": "forgithub",
+      "description": "Family of GitHub-focused tools by Jan Wilmake including Dashboard for GitHub and Context for GitHub",
+      "category": "Projects"
+    },
+    {
+      "slug": "Grok_Thyself",
+      "title": "Grok Thyself",
+      "description": "X data sync tool by Jan Wilmake that continuously backs up tweets, bookmarks, and likes to a private GitHub repo",
+      "category": "Projects"
+    },
+    {
+      "slug": "LLMTEXT",
+      "title": "LLMTEXT",
+      "description": "Open-source toolkit by Jan Wilmake for creating, validating, and using llms.txt files; launched under Parallel AI in October 2025",
+      "category": "Projects"
+    },
+    {
+      "slug": "Markdown_Browser",
+      "title": "Markdown Browser",
+      "description": "Browser extension and web tool by Jan Wilmake showing any URL's markdown representation alongside its llms.txt sidebar",
+      "category": "Projects"
+    },
+    {
+      "slug": "openapisearch",
+      "title": "openapisearch.com",
+      "description": "API discovery and search tool by Jan Wilmake that went viral in March 2025",
+      "category": "Projects"
+    },
+    {
+      "slug": "Self-Driving_Repos",
+      "title": "Self-Driving Repos",
+      "description": "Jan Wilmake's platform for running autonomous AI agents on GitHub repositories with strict budget control",
+      "category": "Projects"
+    },
+    {
+      "slug": "SimplerAuth",
+      "title": "SimplerAuth",
+      "description": "Auth library collection for Cloudflare Workers by Jan Wilmake; minimal OAuth implementations",
+      "category": "Projects"
+    },
+    {
+      "slug": "sponsorflare",
+      "title": "sponsorflare",
+      "description": "Cloudflare Workers-based sponsorship and usage-billing layer built by Jan Wilmake",
+      "category": "Projects"
+    },
+    {
+      "slug": "uithub",
+      "title": "uithub",
+      "description": "GitHub repository viewer and AI context tool developed by Jan Wilmake",
+      "category": "Projects"
+    }
+  ]
 }
