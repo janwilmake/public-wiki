@@ -4,10 +4,10 @@
   "agents": [
     {
       "name": "wiki updater",
-      "llm_model": "anthropic/claude-sonnet-4.6",
+      "llm_model": "deepseek/deepseek-v3.2",
       "frequency_hours": 168,
       "prompt": "Check the downstream wiki and craft a wiki from the information that is public facing. This means it shouldn't have any personal information like finances, health etc related stuff.",
-      "budget_cents": 500,
+      "budget_cents": 1000,
       "budget_period": "month",
       "budget_spread": false,
       "tools": {
