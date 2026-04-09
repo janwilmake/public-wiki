@@ -1,0 +1,10 @@
+{
+  "$schema": "https://unpkg.com/wrangler@latest/config-schema.json",
+  "name": "public-wiki-worker",
+  "compatibility_date": "2025-12-01",
+  "assets": {
+    "directory": "./entries",
+    "binding": "ASSETS"
+  },
+  "routes": [{ "custom_domain": true, "pattern": "wiki.janwilmake.com" }]
+}
