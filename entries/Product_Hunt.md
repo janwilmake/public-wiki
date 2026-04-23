@@ -14,9 +14,10 @@ Product Hunt launched as a side project before growing into the leading discover
 
 ## Relevance to Jan
 
-[[Jan_Wilmake]] identified Product Hunt as a planned launch venue for [[uithub]] version 2. Jan's network includes multiple people connected to Product Hunt:
+[[Jan Wilmake]] identified Product Hunt as a planned launch venue for [[uithub]] version 2, noting in his April 2025 email exchange with Ryan Hoover: *"A v2 is coming soon. Hope to launch it on ProductHunt as well!"*[^ryan] Given that Ryan Hoover himself was in the loop as a potential investor at the time, the Product Hunt launch carried both distribution value and relationship significance.
 
-- **[[Ryan_Hoover]]** — founder; Jan was in direct contact about a potential investment in uithub
+Jan's network includes multiple people connected to Product Hunt:
+- **[[Ryan_Hoover]]** — founder; Jan was in direct email contact about a pre-seed investment in April 2025
 - **[[Ben_Tossell]]** — early employee; separately expressed interest in investing in uithub in May 2025
 
 The combination of a potential Product Hunt launch with investor interest from its founder would represent a high-profile moment for uithub's public positioning.
@@ -27,3 +28,5 @@ The combination of a potential Product Hunt launch with investor interest from i
 - [[Ben_Tossell]]
 - [[uithub]]
 - [[Jan_Wilmake]]
+
+[^ryan]: Email exchange with Ryan Hoover: `2025/investors/ryan-hoover.md`; `2026/investors/ryan-hoover.md`

@@ -1,54 +1,50 @@
 ---
 title: MasterCrimeZ
-description: Text-based multiplayer browser game built by Jan Wilmake at age 12 that reached 500+ daily active users
+description: Text-based multiplayer browser game developed by Jan Wilmake from 2006
 category: Projects
 ---
 
 # MasterCrimeZ
 
-**MasterCrimeZ** was a text-based multiplayer browser game developed by [[Jan_Wilmake]] in 2006 when he was twelve years old. Built in PHP, the game reached over 500 daily active users at its peak and generated revenues exceeding €2,000 per month through microtransactions and advertising.
+**MasterCrimeZ** is a text-based multiplayer browser-based role-playing game (MMORPG) developed and maintained by [[Jan Wilmake]]. First launched in 2006 when Wilmake was twelve years old,[^career-rundown] MasterCrimeZ is one of the earliest and most enduring projects in his portfolio, serving both as his introduction to professional software development and as a recurring side project throughout his career.
 
-## Origins
+## Overview
 
-Wilmake created MasterCrimeZ as a self-taught programming project while growing up near Groningen, Netherlands. The game represented his first significant software success and demonstrated an early aptitude for both programming and product development.
+MasterCrimeZ is set in a criminal underworld and follows a classic browser game model: players build criminal empires, engage in territory battles, participate in an in-game economy, and interact with rival players through a text-based interface. The game uses a gang/syndicate structure, an in-game marketplace, and progression mechanics typical of the genre.
 
-## Gameplay
+## History
 
-MasterCrimeZ was a text-based multiplayer game where players could:
-- Create criminal organizations
-- Engage in virtual criminal activities
-- Compete with other players
-- Build virtual empires
+### Launch and Early Growth (2006–2011)
 
-The interface was entirely browser-based, using PHP for server-side logic and basic HTML for the frontend — typical of early 2000s web games.
+Wilmake built the initial version of MasterCrimeZ in PHP at the age of twelve, hosting it while still in secondary school.[^career-rundown] At its commercial peak, the game attracted over **500 daily active users** and generated revenues exceeding **€2,000 per month**, primarily through in-game purchases and premium memberships. This made it a significant independent revenue source for a teenager.
 
-## Technical Achievement
+During his secondary school years, he maintained MasterCrimeZ alongside freelance web development work for local businesses.
 
-For a twelve-year-old developer in 2006, MasterCrimeZ represented several notable technical accomplishments:
-- **User authentication system** — managing thousands of user accounts
-- **Real-time multiplayer mechanics** — coordinating player interactions
-- **Revenue systems** — implementing payment processing for in-game purchases
-- **Server management** — hosting and scaling the game infrastructure
+### Dormancy and Revivals (2011–2021)
 
-## Impact on Career
+The game experienced multiple periods of reduced activity:[^2015-2022]
 
-MasterCrimeZ served as an important formative experience for Wilmake:
-- **Early entrepreneurship** — managing a profitable software product as a teenager
-- **Technical foundation** — developing skills in PHP, MySQL, and web infrastructure
-- **User acquisition** — learning to grow and retain an active user base
-- **Monetization** — understanding how to generate revenue from software
+- **2012–2016**: Maintained during university studies, with reduced development focus
+- **2018**: Active project alongside employment at Target Holding
+- **2020**: A major development sprint in November–December 2020, involving translations, gang features, market systems, and an estimated 77+ hours per week of active development[^2015-2022]
+- **2021**: Continued alongside the founding of [[Code From Anywhere]]
 
-The success of MasterCrimeZ demonstrated that software development could be both creatively fulfilling and financially viable, setting the stage for Wilmake's later career in software development and entrepreneurship.
+### Technical Evolution
 
-## Later References
+| Era | Technology |
+|-----|-----------|
+| 2006–2018 | PHP, MySQL |
+| 2018–2021 | Node.js migration |
 
-Wilmake has referenced MasterCrimeZ in discussions about:
-- **Early programming education** — the value of learning through ambitious projects
-- **Bootstrapped entrepreneurship** — starting with minimal resources
-- **Youth software development** — what's possible for young programmers with access to technology
+## Significance
+
+MasterCrimeZ is notable as the proof-of-concept that bootstrapped software could generate meaningful revenue. Its commercial success at an early age fundamentally shaped Wilmake's later entrepreneurial approach: a preference for self-funded products that demonstrate traction before raising external capital.[^career-rundown]
 
 ## See Also
 
-- [[Jan_Wilmake]]
-- [[Code_From_Anywhere]]
+- [[Jan Wilmake]]
+- [[Code From Anywhere]]
 - [[Communify]]
+
+[^career-rundown]: Career overview narrative: `history/career-rundown-2006-2026.md`
+[^2015-2022]: Detailed timeline 2015–2022: `history/2015-2022.md`

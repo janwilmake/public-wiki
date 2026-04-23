@@ -6,11 +6,11 @@ category: Concepts
 
 # Scalable Knowledge Work
 
-**Scalable Knowledge Work** is a concept articulated by [[Jan_Wilmake]] in a 2024 blog post ("Scalable Ideas") describing how large language models shift knowledge work from a one-off activity to a globally replicable pipeline. The claim: for any task that requires expertise but follows a repeatable pattern, an LLM-driven API chain can now execute it millions of times with minimal marginal cost.
+**Scalable Knowledge Work** is a concept articulated by [[Jan Wilmake]] in a 2024 blog post ("Scalable Ideas") describing how large language models shift knowledge work from a one-off activity to a globally replicable pipeline. The claim: for any task that requires expertise but follows a repeatable pattern, an LLM-driven API chain can now execute it millions of times with minimal marginal cost.[^scalable]
 
 ## The Core Thesis
 
-Jan's formulation: *"We're entering an age where we can start copying knowledge work. What I mean by that is that we can find a useful thing to do once and do it on a global scale, potentially millions of times, to create value."*
+Jan's formulation: *"We're entering an age where we can start copying knowledge work. What I mean by that is that we can find a useful thing to do once and do it on a global scale, potentially millions of times, to create value."*[^scalable]
 
 The enabling conditions:
 1. LLMs can interpret high-level natural language instructions without rigid input schemas
@@ -46,11 +46,15 @@ Scalable Knowledge Work is the economic thesis that motivates several of Jan's i
 
 - **[[ActionSchema]]** provides the pipeline execution layer (API chaining, OpenAPI proxy, agent coordination)
 - **[[Agent_Friendly_Web]]** provides the data access layer (token-efficient mirrors of major platforms)
+- **[[Outcomputed]]** describes the labour-market consequence when this capability matures
 
-Together, they form a coherent picture: the web becomes a substrate for automated knowledge work, and the infrastructure for accessing it must become agent-friendly.
+Together, the three form a coherent picture: the web becomes a substrate for automated knowledge work, the infrastructure for accessing it must become agent-friendly, and human workers must reposition as compute allocators rather than knowledge producers.
 
 ## See Also
 
 - [[ActionSchema]]
 - [[Agent_Friendly_Web]]
+- [[Outcomputed]]
 - [[Jan_Wilmake]]
+
+[^scalable]: Blog post: `../blog/2024/scalable-ideas.md`

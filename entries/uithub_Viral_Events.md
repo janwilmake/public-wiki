@@ -1,62 +1,43 @@
 ---
 title: uithub Viral Events
-description: The viral growth surges experienced by uithub in 2024-2025
+description: Three organic viral traffic spikes for uithub between October 2024 and March 2025, each exceeding 100,000 pageviews
 category: Events
 ---
 
 # uithub Viral Events
 
-**uithub**, the GitHub repository viewer developed by [[Jan_Wilmake]], experienced multiple viral growth events between 2024 and 2025, each driving significant traffic and user engagement.
+Between October 2024 and March 2025, [[uithub]] experienced **three distinct organic viral events** on X (Twitter), each generating 100,000+ pageviews. The events established uithub's credibility as a widely-adopted developer tool and formed the core of [[Jan Wilmake]]'s fundraising pitch in early 2025.
 
-## October 2024: First Viral Wave
+## The Three Spikes
 
-The initial viral event for uithub occurred in October 2024, driving:
-- Over 100,000 pageviews
-- Significant developer attention
-- Initial user base establishment
+### October 2024: First Viral Event
+The first viral event brought uithub to a wide developer audience on X for the first time. Traffic exceeded 100,000 pageviews. The trigger and specific post are not recorded in the notes, but this event established the pattern that would repeat.
 
-This surge validated the core concept of an agent-friendly GitHub interface and demonstrated demand for tools that make repositories more accessible to AI agents.
+### December 2024: Japanese Developer Surge
+The second viral event originated in the Japanese developer community — Jan noted that the posts driving traffic were in Japanese and essentially all traffic came from Japan during this spike. This event is notable for demonstrating that uithub's utility transcended language barriers and had organic adoption in a market Jan had not specifically targeted.
 
-## December 2024: Japanese Market Discovery
+### March 2025: Third Viral Event
+Coinciding with [[openapisearch]] also going viral in March 2025, uithub had its third 100k+ traffic spike. This event, combined with the openapisearch launch, represented the peak of Jan's public visibility in Q1 2025.
 
-In December 2024, uithub experienced a second viral wave, this time predominantly from Japanese users:
-- Another 100,000+ pageviews
-- Strong adoption in the Japanese developer community
-- Localization and internationalization considerations emerged
+## Between Spikes
 
-The Japanese traction was particularly notable as it represented organic discovery in a non-English-speaking market, suggesting the tool addressed universal developer needs.
+Jan documented consistent baseline engagement between viral events: approximately **500–2,000 daily active users** with repeated usage patterns.[^ryan] This demonstrated that the viral events were driving genuine retention rather than one-time curiosity visits.
 
-## March 2025: Coordinated Ecosystem Launch
+## Significance
 
-March 2025 saw the largest coordinated viral event, with uithub growing alongside related tools in the forgithub ecosystem:
-- Over 100,000 pageviews (third consecutive viral wave)
-- Launch coordinated with:
-  - **zipobject** — repository packaging tool
-  - **[[sponsorflare]]** — billing infrastructure
-  - **[[openapisearch]]** — API discovery (also went viral)
-  - Various **forgithub** utilities
+Jan described the three viral events to Ryan Hoover in April 2025 as evidence of organic product-market fit: *"Uithub has organically gone viral 3 individual times on Twitter: October last year: 100k+ pageviews / In December: 100K+ pageviews (Posts in Japanese, all traffic from Japan only) / Last month: 100K+ pageviews again."*[^ryan]
 
-This ecosystem approach created network effects, with each tool driving traffic to the others and establishing [[Code_From_Anywhere]] as a hub for developer productivity tools.
+The viral events underpinned Jan's $250,000 pre-seed fundraising pitch and attracted attention from [[Enes_Akar]] (Upstash, who began sponsoring at $100/month in May 2025), [[Ryan_Hoover]] (Weekend Fund investor inquiry), and [[Ben_Tossell]] (investment interest). They also contributed to Jan's initial outreach to the Cloudflare DevRel team.
 
-## Between Viral Events
-
-Between spikes, uithub maintained steady daily active users of 500–2,000, demonstrating sustained utility beyond viral moments. This consistent usage validated the tool's core value proposition for developers working with AI agents.
-
-## Impact and Significance
-
-The multiple viral events for uithub demonstrated:
-1. **Product-market fit** — clear demand for agent-friendly development tools
-2. **Network effects** — ecosystem approach amplifying growth
-3. **Global appeal** — traction across different language markets
-4. **Sustained utility** — consistent usage between viral spikes
-
-The viral growth informed subsequent product decisions, including the December 2025 monetization reset (login required, $20 for private repos) and the ongoing development of the [[forgithub]] tool family.
+A fourth viral event occurred in **November 2025** — while Jan was hospitalised in Vietnam during a psychosis episode. Jan observed this surge upon returning home and noted the irony.[^diary-nov]
 
 ## See Also
 
 - [[uithub]]
-- [[Jan_Wilmake]]
 - [[openapisearch]]
-- [[sponsorflare]]
-- [[forgithub]]
-- [[Code_From_Anywhere]]
+- [[Jan_Wilmake]]
+- [[Ryan_Hoover]]
+- [[Enes_Akar]]
+
+[^ryan]: Investor email exchange April 2025: `2025/investors/ryan-hoover.md`
+[^diary-nov]: Personal diary November 2025: `2025/2025-11-diary.md`

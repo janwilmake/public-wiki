@@ -1,29 +1,31 @@
 ---
 title: Grok Thyself
-description: X data sync tool by Jan Wilmake that continuously backs up tweets, bookmarks, and likes to a private GitHub repo
+description: X data sync tool by Jan Wilmake that backs up tweets, bookmarks, and likes to a GitHub repo; facing X API pricing change April 2026
 category: Projects
 ---
 
 # Grok Thyself
 
-**Grok Thyself** (`grokthyself.com`) is a tool developed by [[Jan_Wilmake]] and launched on April 7, 2026. It synchronises a user's X (Twitter) posts, bookmarks, and likes into a private GitHub repository of the user's choice, creating a structured, AI-queryable personal knowledge base from social media activity.
+**Grok Thyself** (`grokthyself.com`) is a tool developed by [[Jan_Wilmake]] and launched on April 7, 2026. It synchronises a user's X (Twitter) posts, bookmarks, and likes into a private GitHub repository of the user's choice, creating a structured, AI-queryable personal knowledge base from social media activity.[^x-posts-2026-04-07]
 
 ## Overview
 
-The tool was inspired by Andrej Karpathy's viral thread on LLM knowledge bases (April 5, 2026), in which Karpathy advocated for using LLMs to build and maintain personal knowledge bases. Jan had been building personal knowledge infrastructure since 2024, and Karpathy's post provided the catalyst to productise the X-data sync component.
+The tool was inspired by Andrej Karpathy's viral thread on LLM knowledge bases (April 5, 2026), in which Karpathy advocated for using LLMs to build and maintain personal knowledge bases. Jan had been building personal knowledge infrastructure since 2024, and Karpathy's post provided the catalyst to productise the X-data sync component.[^x-posts-2026-04-05]
 
-Jan's initial question to his audience: *"who wants a continuous sync of all their tweets+bookmarks+likes into a private github repo to augment their knowledge base?"* — received strong interest.
+Jan's initial question to his audience: *"who wants a continuous sync of all their tweets+bookmarks+likes into a private github repo to augment their knowledge base?"* — received strong interest.[^x-posts-2026-04-05]
 
 ## Features
 
-- **Continuous sync**: Automatically syncs X bookmarks and posts to a private GitHub repository
+- **Continuous sync**: Automatically syncs X bookmarks, posts, and likes to a private GitHub repository
+- **Likes sync**: Added April 12, 2026 — provides rich context about the user's interests and engagement patterns[^x-posts-2026-04-12]
 - **Backfill**: Retrieves up to 1,000 historic bookmarks and 1,000 historic posts on first setup
 - **Rich context**: Every post includes quoted posts and replied-to posts, all neatly organised in daily markdown files
 - **GitHub App integration**: Uses a GitHub App for repository access; users select which private repo to sync to
+- **Cost-optimised engine**: Sync cost reduced to approximately $0.005 per post as of April 2026[^x-posts-2026-04-12]
 
 ## Traction
 
-Within 24 hours of launch, Grok Thyself achieved:
+Within 24 hours of launch, Grok Thyself achieved:[^x-posts-2026-04-08]
 
 | Metric | Count |
 |--------|-------|
@@ -32,11 +34,19 @@ Within 24 hours of launch, Grok Thyself achieved:
 | Sign-ups | 40 |
 | Paid subscribers | 3 |
 
-Jan described the launch as *"a success"* and immediately pivoted to the next product in the pipeline: [[Self-Driving_Repos]].
+Jan described the launch as *"a success"* and immediately pivoted to the next product in the pipeline: [[Self-Driving_Repos]].[^x-posts-2026-04-08]
+
+By April 13, 2026, sign-ups had grown to 48 — but only 3 users were fully set up and paying, indicating a significant activation gap. Jan was actively evaluating the onboarding flow to close this gap, and the community was leaning toward a paid-only model (no free tier).[^goals]
 
 ## Community Response
 
-An unexpected development: someone in the web3 community created a memecoin for Grok Thyself through a decentralised crowdfunding mechanism, motivated by a desire to support solo developers. Jan had no involvement in or awareness of this until notified by a user.
+An unexpected development: someone in the web3 community created a memecoin for Grok Thyself through a decentralised crowdfunding mechanism, motivated by a desire to support solo developers. Jan had no involvement in or awareness of this until notified by a user.[^x-posts-2026-04-07]
+
+Several sign-ups did not complete the setup flow, prompting Jan to individually reach out to approximately 14 users asking if they needed help — a characteristic pattern of hands-on user engagement.[^x-posts-2026-04-07]
+
+## Pricing and Backfill
+
+Grok Thyself's initial offering includes backfill of up to 1,000 historic bookmarks and 1,000 historic posts. On April 9, 2026, a user (@wgw_eth) requested backfill for approximately 30,000 posts. Jan proposed a pay-per-post model at approximately **$0.005+ per post**, reflecting the underlying X API costs. An alternative path — users manually exporting their X data archive and transforming it to markdown — was offered as a cheaper but more labour-intensive option.[^x-posts-2026-04-09]
 
 ## Relationship to Other Projects
 
@@ -44,12 +54,50 @@ Grok Thyself is the data ingestion layer for Jan's broader personal knowledge ba
 
 - **Input**: Grok Thyself syncs raw X data to a private GitHub repo
 - **Processing**: [[Self-Driving_Repos]] runs agents on source repos to produce a synthesised wiki
-- **Output**: A wiki repo (like this one)
+- **Output**: A wiki repo like this one ([[Jan_Wilmake]]'s Janpedia)
+
+The x-archive repository used as a source for this wiki was itself generated by an early version of the same sync pipeline.[^x-posts-2026-04-07]
+
+Grok Thyself is the productised evolution of the earlier [[socialdatapod]] concept, which focused on syncing full X post history to a personal database as an MCP server. Where socialdatapod was developer-focused (a GitHub repo + MCP), Grok Thyself packages the same idea for a broader audience with a web-based setup flow, GitHub App integration, and paid subscriptions.
+
+## Technical Context
+
+Jan explored whether to host the sync process on the user's machine or in the cloud. He concluded that cloud-based continuous sync (via private GitHub repos) is superior because users should not need to keep their computer running. This preference motivated the subsequent development of [[Self-Driving_Repos]].[^x-posts-2026-04-07]
+
+## X API Pricing Change (April 2026)
+
+On April 17, 2026, X announced a pricing update: **"Owned Reads Now $0.001 + Other Changes Effective April 20, 2026."** Jan spent the morning (07:02–08:16) reading the email announcement, the X Developer Community thread, and using [[ContextArea]] to draft a response. He also explored X API timeline documentation (Timelines overview, Get Timeline, Quickstart) and revisited the socialdatapod/grokthyself codebase on [[uithub]].[^activity-2026-04-17]
+
+This pricing change directly affects GrokThyself's cost model, as the tool reads X timelines via the API. The GOALS.md document identified resolving the pricing impact as **urgent before April 20** — requiring an audit of how GrokThyself uses "Owned Reads" endpoints, a cost impact calculation per user per month, and possible pricing or rate-limit adjustments.[^goals]
+
+Jan also explored X API timeline endpoints (09:27–09:36), suggesting he was investigating alternative approaches to data retrieval that might mitigate the cost increase.[^activity-2026-04-17]
+
+**As of April 20, 2026, the new X API pricing is live.** The $0.001 per owned read is now in effect. Some developers in the community reported potential exposure of $8,000/day for high-volume use cases. Jan's response strategy — drafted using [[ContextArea]] on April 17 — has not yet been publicly communicated to GrokThyself users. Whether the cost audit was completed by the deadline remains unconfirmed as of April 22.[^goals]
+
+## "Context Flywheel" Framing
+
+On April 21, 2026, Jan read tessl.io's *"The Context Flywheel: Why the Best AI Coding Teams Will Win on Context"* — a framework arguing that context accumulation compounds like a flywheel. GrokThyself is literally building a personal context flywheel from X data: every sync adds more signal, every AI query over the archive is richer than the last. The GOALS.md document identified "context flywheel" as a high-priority vocabulary hook for GrokThyself's marketing copy — reframing the product from "X data backup" to "your personal context flywheel."[^goals] [^activity-2026-04-21]
+
+## Competitor Landscape
+
+As of April 2026, Jan was actively researching competitors in the X data backup space, including searching *"backup x data"* on Reddit and monitoring tools like [Conare.ai](https://conare.ai/docs) and @dabit3's xAI/OpenClaw daily report pipeline. The key competitor insight: storage was a solved problem, but retrieval and intelligence on top of the data was not yet addressed by existing tools.[^goals]
+
+On April 17, Jan spent ~6.5 minutes reading Nader Dabit's thread on using the xAI API + @openclaw to build curated X feeds and daily email reports — a pattern that overlaps with GrokThyself's value proposition but approaches it from the curation/intelligence angle rather than raw data backup.[^activity-2026-04-17]
 
 ## See Also
 
 - [[Jan_Wilmake]]
 - [[Self-Driving_Repos]]
+- [[Browser_History_Extension]]
 - [[Agent_Friendly_Web]]
 - [[socialdatapod]]
 - [[ContextArea]]
+
+[^x-posts-2026-04-05]: X post archive: `x-archive/raw/x-posts/2026-04-05.md`
+[^x-posts-2026-04-07]: X post archive: `x-archive/raw/x-posts/2026-04-07.md`
+[^x-posts-2026-04-08]: X post archive: `x-archive/raw/x-posts/2026-04-08.md`
+[^x-posts-2026-04-09]: X post archive: `x-archive/raw/x-posts/2026-04-09.md`
+[^x-posts-2026-04-12]: X post archive: `x-archive/raw/x-posts/2026-04-12.md`
+[^goals]: Goals document: `x-archive/entries/GOALS.md`
+[^activity-2026-04-17]: Activity summary: `x-archive/raw/activity-summary/2026-04-17.md`
+[^activity-2026-04-21]: Browser history and GOALS: `x-archive/raw/browser-history/2026-04-21.md`

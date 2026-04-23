@@ -1,37 +1,55 @@
 ---
 title: Markdown Browser
-description: Browser extension and web tool by Jan Wilmake showing any URL's markdown representation alongside its llms.txt sidebar
+description: Browser tool by Jan Wilmake for navigating the agent-readable second web via markdown and llms.txt
 category: Projects
 ---
 
 # Markdown Browser
 
-**Markdown Browser** (`markdownbrowser.com`) is a browser extension and web tool developed by [[Jan_Wilmake]] and launched in March 2026. It shows any URL's markdown representation alongside its llms.txt navigation sidebar, providing a unified interface for the "second web" — the markdown and structured-data layer that AI agents consume.
+**Markdown Browser** (`markdownbrowser.com`) is a web tool developed by [[Jan Wilmake]] and launched on March 2, 2026. It shows any URL's markdown representation alongside a llms.txt navigation sidebar — framed as a browser for the "second web" of AI-readable content.[^x-posts-2026-03-02]
 
 ## Concept
 
-Jan's framing at launch: *"The web is bifurcating. For 30 years we had one web — built for human eyes. Now a second web is emerging: markdown, structured data, and llms.txt files that AI agents consume. There's no browser for that second web. Until now."*
+Jan's launch framing: *"The web is bifurcating. For 30 years we had one web — built for human eyes. Now a second web is emerging: markdown, structured data, and llms.txt files that AI agents consume. There's no browser for that second web. Until now."*[^x-posts-2026-03-02]
 
-Markdown Browser solves this by giving humans and agents a consistent way to see both layers of any URL simultaneously.
+The core observation motivating Markdown Browser: *"Markdown is a better reading experience. No popups. No layout shift. No cookie dialogs. No autoplaying videos. No 'subscribe' modals. Just text, links, and code blocks. It's reader mode on steroids — except the content is designed to be read this way."*[^x-posts-2026-03-02]
+
+Sites with `/llms.txt` files become navigable through a sidebar, similar to a dev portal but for the machine-readable web. Devtools show token cost, response time, and spec compliance.
 
 ## Features
 
-- **Pluggable extract engines**: Defuddle (by @kepano) is the default; [[Parallel_AI]]'s API is available for HTML-only sites
-- **llms.txt sidebar**: Shows the llms.txt navigation structure for any site that has one
-- **Universal**: Works on any URL — GitHub repos, documentation sites, blogs, and more
+- **Markdown rendering** of any URL (via extract engine)
+- **llms.txt sidebar navigation** — when a site has llms.txt, it becomes browsable like a docs portal
+- **Pluggable extract engines** — Defuddle (default), Jina, Parallel API, and others[^x-posts-2026-03-06]
+- **Pluggable search engines** — configurable per user[^x-posts-2026-03-06]
+- **Deep link sharing** — share a URL that preloads a specific page: e.g. `markdownbrowser.com/?url=https://...`[^x-posts-2026-03-06]
+- **Token cost and response time** shown as devtools
 
-## Relationship to Parallel AI
+## Development History
 
-Jan used Parallel's Extract API as the backend for sites that only serve HTML. This positioned Markdown Browser as a direct showcase for Parallel's Extract API capability and part of his DevRel work.
+| Date | Milestone |
+|------|-----------|
+| Mar 2, 2026 | Initial launch; announcement thread on X |
+| Mar 6, 2026 | Added pluggable extract and search engines; Defuddle becomes default |
+| Mar 6, 2026 | Added deep link sharing via URL query param |
 
-## Industry Context
+## Integration with Parallel AI
 
-Markdown Browser was launched as the [[Agent_Friendly_Web]] thesis was receiving significant industry validation — with Cloudflare, Mintlify, Vercel, and Bun all adopting markdown-first content delivery in the months prior.
+For URLs that only serve HTML (no native markdown), Markdown Browser requires a Parallel API key to use Parallel's extraction API to render them. Sites that natively serve markdown (via content-negotiation) work without a key.
+
+Jan positioned this as a showcase for Parallel's Extract API — the right extract engine matters, and Parallel's is one of the best options.[^x-posts-2026-03-06]
+
+## Reception
+
+The launch thread received positive engagement. Jan noted that some sites "hold up beautifully" in markdown while others don't, surfacing which sites are genuinely agent-friendly.
 
 ## See Also
 
-- [[Jan_Wilmake]]
+- [[Jan Wilmake]]
 - [[Agent_Friendly_Web]]
 - [[LLMTEXT]]
+- [[ContextArea]]
 - [[Parallel_AI]]
-- [[uithub]]
+
+[^x-posts-2026-03-02]: X post archive: `x-archive/raw/posts/2026-03-02.md`
+[^x-posts-2026-03-06]: X post archive: `x-archive/raw/posts/2026-03-06.md`

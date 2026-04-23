@@ -6,7 +6,7 @@ category: Organizations
 
 # Sprent
 
-**Sprent** is a Swedish technology company building a combined housing and recruitment platform. [[Jan_Wilmake]], operating through [[Code_From_Anywhere]], served as lead developer on Sprent's admin panel from December 2023 through March 2024.
+**Sprent** is a Swedish technology company building a combined housing and recruitment platform. [[Jan Wilmake]], operating through [[Code From Anywhere]], served as lead developer on Sprent's admin panel from December 2023 through March 2024.[^history]
 
 ## Platform
 
@@ -14,7 +14,7 @@ Sprent aims to connect housing and employment — allowing employers or housing 
 
 ## Wilmake's Work
 
-The engagement began in late 2023 with a v3.0 refactor of the admin panel:
+The engagement began in late 2023 with a v3.0 refactor of the admin panel:[^history]
 
 | Period | Activity |
 |--------|----------|
@@ -26,12 +26,14 @@ Key technical choices: **AG-Grid** for high-performance data table rendering, **
 
 ## Context
 
-The Sprent contract provided Wilmake's primary freelance income during the period he was also developing [[ActionSchema]] and [[Screenless]] as personal projects in early 2024. The overlap meant ActionSchema work happened primarily in mornings before Sprent deliverables.
+The Sprent contract provided Wilmake's primary freelance income during the period he was also developing [[ActionSchema]] and [[Screenless]] as personal projects in early 2024. The overlap meant ActionSchema work happened primarily in mornings before Sprent deliverables.[^history]
 
-Sprent was a remote engagement — Wilmake worked from Groningen throughout, with the client based in Sweden.
+Sprent was a remote engagement — Wilmake worked from [[Groningen]] throughout, with the client based in Sweden.
 
 ## See Also
 
-- [[Jan_Wilmake]]
-- [[Code_From_Anywhere]]
+- [[Jan Wilmake]]
+- [[Code From Anywhere]]
 - [[ActionSchema]]
+
+[^history]: Detailed timeline 2024–2025: `history/2024-2025.md`

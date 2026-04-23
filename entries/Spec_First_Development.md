@@ -6,11 +6,11 @@ category: Concepts
 
 # Spec-First Development
 
-**Spec-First Development** is a software development practice consistently followed by [[Jan_Wilmake]] for over two years (as of April 2026): before writing code, write a `SPEC.md` file — a plain-text specification of what the software should do. In the era of LLM agents, this practice has become doubly valuable: the SPEC file serves both as a design discipline for the human and as the primary context document for the coding agent.
+**Spec-First Development** is a software development practice consistently followed by [[Jan Wilmake]] for over two years (as of April 2026): before writing code, write a `SPEC.md` file — a plain-text specification of what the software should do. In the era of LLM agents, this practice has become doubly valuable: the SPEC file serves both as a design discipline for the human and as the primary context document for the coding agent.[^x-posts-2026-04-05]
 
 ## The Practice
 
-Jan's approach, described in response to Karpathy's viral thread on LLM knowledge bases in April 2026: *"I've done this for over 2 years. Just search in my github for SPEC.md."*
+Jan's approach, described in response to Karpathy's viral thread on LLM knowledge bases in April 2026: *"I've done this for over 2 years. Just search in my github for SPEC.md."*[^x-posts-2026-04-05]
 
 A `SPEC.md` file typically contains:
 - A description of what the software should do (user-facing behaviour)
@@ -45,3 +45,5 @@ A notable consequence of this practice: Jan's GitHub repositories contain SPEC.m
 - [[ContextArea]]
 - [[Agent_Friendly_Web]]
 - [[Scalable_Knowledge_Work]]
+
+[^x-posts-2026-04-05]: X post archive: `x-archive/raw/posts/2026-04-05.md`

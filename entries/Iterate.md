@@ -6,20 +6,25 @@ category: Organizations
 
 # Iterate
 
-**Iterate** (iterate.com) is a developer productivity startup founded by [[Jonas_Templestein]], the former co-founder and CTO of Monzo Bank. The company focuses on tooling to help software developers ship faster and more effectively, with a vision of "self-driving startups" where AI handles routine business operations.
+**Iterate** (iterate.com) is a developer productivity startup founded by [[Jonas_Templestein]], the former co-founder and CTO of Monzo Bank. The company focuses on tooling to help software developers ship faster and more effectively.
 
 ## Jan's Trial Week (May 2025)
 
-In May 2025, Jonas Templestein reached out to [[Jan_Wilmake]] to do a **paid trial week**. Jan completed the trial successfully. After the trial, Jonas offered Jan a full-time role, but the terms required full-time commitment with no room for Jan's own projects — which Jan declined.
+In May 2025, Jonas Templestein reached out to [[Jan Wilmake]] to do a **paid trial week**. Jan completed the trial, earning approximately **$3,600** (recorded internally as €4,000).[^earnings] After the trial, Jonas offered Jan a full-time role, but the terms required full-time commitment with no room for Jan's own projects — which Jan declined.
 
-Jan and Jonas had been in contact through the developer community. The trial arrangement is notable in that Jonas — as a highly credentialed founder (ex-Monzo, now building in the developer tools space) — directly sought Jan out for paid work.
+Jan's diary from May 30, 2025: *"Ok that was the quickest freelance gig I've had ever. He wanted me full-time, but not 2d/week. Too bad. It was a fun ride."*[^diary-may]
 
-## About Iterate
+The Iterate trial came at a pivotal week in May 2025 — the same week Upstash began sponsoring uithub at $100/month and Ben Tossell expressed interest in investing. Jan had noted these three events simultaneously as significant validation of his work.[^diary-may]
 
-Iterate is backed by OpenAI, Index Ventures, Y Combinator president Garry Tan, Naval Ravikant, Amjad Masad (Replit CEO), Aravind Srinivas (Perplexity CEO), and others. Jonas Templestein has been vocal about a theory of "Level 0 through Level 5" AI-augmented startups, placing most organisations at Level 1 as of 2025.
+## Prior Connection
+
+Jan and Jonas had been in contact through the developer community. The trial arrangement is notable in that Jonas — as a highly credentialed founder (ex-Monzo, now building in the developer tools space) — directly sought Jan out for paid work, which Jan considered meaningful recognition of his skills and public profile.
 
 ## See Also
 
 - [[Jonas_Templestein]]
 - [[Jan_Wilmake]]
 - [[Parallel_AI]]
+
+[^earnings]: Earnings summary 2025: `2026/administration/earnings-2025.md`
+[^diary-may]: Personal diary May 2025: `2025/2025-05-diary.md`

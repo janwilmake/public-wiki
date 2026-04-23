@@ -6,9 +6,9 @@ category: Concepts
 
 # Internetless Software Development
 
-**Internetless Software Development** is a concept and living experiment documented by [[Jan_Wilmake]] in early 2024. The premise: dedicate a second MacBook Air as a machine that has never touched the real internet — running a large local LLM, local DNS resolution, and a Vercel-compatible serverless environment — producing a complete software development setup with no external dependencies.
+**Internetless Software Development** is a concept and living experiment documented by [[Jan Wilmake]] in early 2024. The premise: dedicate a second MacBook Air as a machine that has never touched the real internet — running a large local LLM, local DNS resolution, and a Vercel-compatible serverless environment — producing a complete software development setup with no external dependencies.
 
-Jan's framing: *"I imagine a device that goes back to basics. It has no internet, just a huge LLM."*
+Jan's framing: *"I imagine a device that goes back to basics. It has no internet, just a huge LLM."*[^internetless]
 
 ## Motivations
 
@@ -18,8 +18,8 @@ Jan identified several distinct reasons to pursue a fully offline setup:
 - **Privacy**: with no outbound connection, activity on the laptop is fully private — no remote hacking, no telemetry, no AI panopticon
 - **Security**: no internet means no malware exfiltration vectors
 - **Distraction elimination**: no social media, no news, no notifications — pure focus
-- **Battery life**: a base-model MacBook Air without WiFi can last significantly longer on a charge
-- **Remote resilience**: useful in locations with poor connectivity
+- **Battery life**: Jan noted from prior experiments that a base-model MacBook Air without WiFi can last three days on a charge
+- **Remote resilience**: useful in locations with poor connectivity; also useful if a government shuts down the internet during an AGI crisis
 
 ## Technical Challenges
 
@@ -54,7 +54,7 @@ Without internet, deployment would use physical media (USB) and a batch-deploy s
 
 ## Significance
 
-The experiment sits at the intersection of several recurring themes in Jan's work: the [[Agent_Friendly_Web]] (what infrastructure does an AI agent need?), the [[Outcomputed]] scenario (what happens if the internet gets shut down?), and his practical interest in reducing external dependencies across his toolchain.
+The experiment sits at the intersection of several recurring themes in Jan's work: the [[Agent_Friendly_Web]] (what infrastructure does an AI agent need?), the [[Outcomputed]] scenario (what happens if the internet gets shut down?), and his practical interest in reducing external dependencies across his toolchain. It is also an extreme expression of the monorepo-to-connected-repos architecture: if every package is a self-contained repo, offline development becomes far more tractable.
 
 ## See Also
 
@@ -62,3 +62,5 @@ The experiment sits at the intersection of several recurring themes in Jan's wor
 - [[Code_From_Anywhere]]
 - [[Agent_Friendly_Web]]
 - [[Outcomputed]]
+
+[^internetless]: Blog post: `../blog/2024/internetless-software-development.md`
