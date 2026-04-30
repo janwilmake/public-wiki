@@ -1,6 +1,6 @@
 ---
 title: Grok Thyself
-description: X data sync tool by Jan Wilmake that backs up tweets, bookmarks, and likes to a GitHub repo; facing X API pricing change April 2026
+description: X data sync tool by Jan Wilmake that backs up tweets, bookmarks, and likes to a GitHub repo; 48 sign-ups, 3 paying users; navigating X API pricing change
 category: Projects
 ---
 
@@ -72,11 +72,15 @@ This pricing change directly affects GrokThyself's cost model, as the tool reads
 
 Jan also explored X API timeline endpoints (09:27–09:36), suggesting he was investigating alternative approaches to data retrieval that might mitigate the cost increase.[^activity-2026-04-17]
 
-**As of April 20, 2026, the new X API pricing is live.** The $0.001 per owned read is now in effect. Some developers in the community reported potential exposure of $8,000/day for high-volume use cases. Jan's response strategy — drafted using [[ContextArea]] on April 17 — has not yet been publicly communicated to GrokThyself users. Whether the cost audit was completed by the deadline remains unconfirmed as of April 22.[^goals]
+**As of April 20, 2026, the new X API pricing is live.** The $0.001 per owned read is now in effect. Some developers in the community reported potential exposure of $8,000/day for high-volume use cases. Jan's response strategy — drafted using [[ContextArea]] on April 17 — has not yet been publicly communicated to GrokThyself users. As of April 25, whether the cost audit was completed remains unconfirmed, and the GOALS.md document continues to flag this as an **immediate priority** — requiring a before/after cost comparison per user per month and possible pricing or rate-limit adjustments.[^goals]
 
 ## "Context Flywheel" Framing
 
 On April 21, 2026, Jan read tessl.io's *"The Context Flywheel: Why the Best AI Coding Teams Will Win on Context"* — a framework arguing that context accumulation compounds like a flywheel. GrokThyself is literally building a personal context flywheel from X data: every sync adds more signal, every AI query over the archive is richer than the last. The GOALS.md document identified "context flywheel" as a high-priority vocabulary hook for GrokThyself's marketing copy — reframing the product from "X data backup" to "your personal context flywheel."[^goals] [^activity-2026-04-21]
+
+## Cross-Platform Personal CRM Angle (April 2026)
+
+On April 24, 2026, Jan spent 37 seconds reading a tweet by Celeste Amadon: *"I would pay anything for a CRM that tracks cross platform (texts, emails, dms) everyone I know and when I last talked with them."* GrokThyself's architecture — GitHub-stored, structured Markdown, agent-queryable — could power exactly this use case. This angle expands GrokThyself's addressable market beyond X data backup into the broader personal data sovereignty space, positioning it as *"your personal relationship memory, stored privately in GitHub, queryable by AI."*
 
 ## Competitor Landscape
 
@@ -101,3 +105,4 @@ On April 17, Jan spent ~6.5 minutes reading Nader Dabit's thread on using the xA
 [^goals]: Goals document: `x-archive/entries/GOALS.md`
 [^activity-2026-04-17]: Activity summary: `x-archive/raw/activity-summary/2026-04-17.md`
 [^activity-2026-04-21]: Browser history and GOALS: `x-archive/raw/browser-history/2026-04-21.md`
+[^activity-2026-04-24]: Activity summary: `x-archive/raw/activity-summary/2026-04-24.md`

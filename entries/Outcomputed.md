@@ -8,7 +8,7 @@ category: Concepts
 
 **Outcomputed** is a concept introduced by [[Jan_Wilmake]] in a 2024 essay describing the trajectory of human labour utility as artificial intelligence capabilities compound. The core claim: for any given knowledge worker, there is a point in time — their personal "outcomputed" threshold — at which machines can perform their primary work tasks better than they can. Once crossed, the conventional basis for that person's economic participation largely evaporates.
 
-Jan's own framing: *"GPT-4o is reported to be smarter than highly educated knowledge workers (knowledge-wise) and this trend is continuing. The % of tasks that computers can do will steadily go up over the coming years. In any case, there will be a point in time at which you'll be outcompeted by machines: Outcomputed."*
+Jan's own framing: *"GPT-4o is reported to be smarter than highly educated knowledge workers (knowledge-wise) and this trend is continuing. The % of tasks that computers can do will steadily go up over the coming years. In any case, there will be a point in time at which you'll be outcompeted by machines: Outcomputed."*[^outcomputed]
 
 ## The Human Utility Curve
 

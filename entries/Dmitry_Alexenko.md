@@ -24,6 +24,12 @@ During 2025, Alexenko was building an **HTTP-level agent-friendly monetisation l
 
 Separately, he was involved in Cloudflare's billing team work involving a 30+ engineer group focused on usage billing, with a sub-team led by a former Stripe engineer (Zunayed) building realtime per-worker billing infrastructure using ClickHouse/BigQuery.[^dmitry]
 
+## Billable Usage Dashboard (April 2026)
+
+On April 22, 2026, Alexenko shipped Cloudflare's new **Billable Usage Dashboard** — a cost breakdown tool enabling users to identify exactly which services are generating charges. He posted on X: *"Why was I charged this amount? One of the most common billing support tickets we got. We shipped a new Billable Usage Dashboard..."* Jan retweeted the announcement.
+
+This directly addressed a pain point Jan had publicly surfaced on April 14, 2026, when he agreed with @levelsio that *"there's no way to find which worker causes cost. having 100s of workers this becomes a mystery."* The shipping of the dashboard — just eight days after Jan's complaint — closed a notable feedback loop between Jan's public Cloudflare commentary and the team's response.
+
 ## Connection to Jan
 
 Dmitry reached out to Jan directly on X following Jan's high-visibility Twitter activity in early 2025, making him one of the first notable inbound contacts from that period. Jan met him in Amsterdam in early September 2025 over coffee to discuss the Stripeflare project and a potential Cloudflare engineering role. Jan also asked Sunil Pai to introduce him to Dmitry as part of his Cloudflare network strategy.[^sunil][^diary]
@@ -34,6 +40,7 @@ Dmitry reached out to Jan directly on X following Jan's high-visibility Twitter 
 - [[Sunil Pai]]
 - [[Ricky Robinett]]
 - [[sponsorflare]]
+- [[Cloudflare_Agents_Week]]
 
 [^x]: X profile: https://x.com/dalexeenko
 [^theorg]: theorg.com/org/cloudflare/org-chart/dmitry-alexeenko
