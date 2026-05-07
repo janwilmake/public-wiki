@@ -36,7 +36,7 @@ The Bali phase (January–April 2018) was the most intensive development period:
 
 ## Outcome
 
-Communify did not achieve commercial traction. The project was suspended in 2019 following Wilmake's return to the Netherlands after a psychosis episode (see [[Mental Health History]]).[^2015-2022] The technical learnings — particularly in React Native architecture and GraphQL API design — were directly applied in subsequent commercial freelance work.
+Communify did not achieve commercial traction. The project was suspended in 2019 following Wilmake's return to the Netherlands. The technical learnings — particularly in React Native architecture and GraphQL API design — were directly applied in subsequent commercial freelance work.
 
 ## See Also
 

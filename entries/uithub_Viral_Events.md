@@ -29,7 +29,7 @@ Jan described the three viral events to Ryan Hoover in April 2025 as evidence of
 
 The viral events underpinned Jan's $250,000 pre-seed fundraising pitch and attracted attention from [[Enes_Akar]] (Upstash, who began sponsoring at $100/month in May 2025), [[Ryan_Hoover]] (Weekend Fund investor inquiry), and [[Ben_Tossell]] (investment interest). They also contributed to Jan's initial outreach to the Cloudflare DevRel team.
 
-A fourth viral event occurred in **November 2025** — while Jan was hospitalised in Vietnam during a psychosis episode. Jan observed this surge upon returning home and noted the irony.[^diary-nov]
+A fourth viral event occurred in **November 2025** — while Jan was travelling in Vietnam. Jan observed this surge upon returning home and noted the irony.
 
 ## See Also
 

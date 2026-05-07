@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-09T17:17:18.852Z",
+  "generated": "2026-05-07T21:00:42.667Z",
   "entries": [
     {
       "slug": "Agent_Friendly_Web",
@@ -56,6 +56,12 @@
       "category": "Projects"
     },
     {
+      "slug": "ProductSim",
+      "title": "ProductSim",
+      "description": "AI-powered E2E browser testing tool that runs against PR preview deploys; launched April 15, 2026",
+      "category": "Projects"
+    },
+    {
       "slug": "Self-Driving_Repos",
       "title": "Self-Driving Repos",
       "description": "Jan Wilmake's platform for running autonomous AI agents on GitHub repositories with strict budget control",
@@ -78,6 +84,12 @@
       "title": "uithub",
       "description": "GitHub repository viewer and AI context tool developed by Jan Wilmake",
       "category": "Projects"
+    },
+    {
+      "slug": "San_Francisco_Bay_Area",
+      "title": "San Francisco Bay Area",
+      "description": "Jan Wilmake's target relocation destination from 2025; motivates networking and career decisions in the 2025–2026 period",
+      "category": "Places"
     }
   ]
 }
