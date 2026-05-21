@@ -8,26 +8,26 @@ category: Organizations
 
 ![New Nexus](https://newnexus.nl/wp-content/uploads/2019/09/New_Nexus.png)
 
-**New Nexus** is a Groningen-based IT consultancy and software development company with approximately 100 employees, operating primarily in Noord-Nederland. In early 2026, [[Jan_Wilmake]] pursued an Agile Analyst position within its Software Solutions team.
+**New Nexus** is a Groningen-based IT consultancy and software development company with approximately 100 employees, operating primarily in Noord-Nederland.[^newnexus] In early 2026, [[Jan Wilmake]] pursued an Agile Analyst position within its Software Solutions team.[^career-plan]
 
 ## Overview
 
-New Nexus specialises in delivering custom software and data solutions to clients in regulated and complex domains, including healthcare and hospitals, pension systems, energy management platforms, library and cultural sector applications, and (semi-)government bodies.
+New Nexus specialises in delivering custom software and data solutions to clients in regulated and complex domains, including healthcare and hospitals, pension systems, energy management platforms, library and cultural sector applications, and (semi-)government bodies.[^newnexus]
 
 The company is divided into three practice areas: **Data Solutions**, **Software Solutions**, and **Management & Consultancy**.
 
 ## Culture
 
-- **Values**: *vrijheid, vertrouwen, verantwoordelijkheid, betrokkenheid* ("freedom, trust, responsibility, involvement")
+- **Values**: *vrijheid, vertrouwen, verantwoordelijkheid, betrokkenheid* ("freedom, trust, responsibility, involvement")[^newnexus]
 - **New Nexus Academy** – internal training and knowledge-sharing programme
 - **Motto**: *"Groeien door te delen"* ("growing by sharing")
 - **Perks**: workation policy, in-house gym, Buster Foodtruck, bar
 
-The company finds projects for people rather than people for projects — a distinction Wilmake noted as indicative of strong cultural fit.
+The company finds projects for people rather than people for projects — a distinction Wilmake noted as indicative of strong cultural fit.[^newnexus]
 
 ## Agile Analyst Role
 
-Key methodologies relevant to the Agile Analyst position:
+Key methodologies relevant to the Agile Analyst position:[^newnexus]
 
 ### Domain Driven Design (DDD)
 Structuring software around the business domain's language (Ubiquitous Language, Bounded Contexts, Domain Events, Event Storming).
@@ -43,11 +43,15 @@ Enterprise scaling framework with Agile Release Trains (ARTs), Program Increment
 
 ## Wilmake's Application
 
-Wilmake positioned himself as a **technical analyst with deep AI/LLM experience**, framing his value as the leverage of upstream problem definition and his ability to bridge technical and business domains in healthcare and government contexts.
+Wilmake positioned himself as a **technical analyst with deep AI/LLM experience**, framing his value as the leverage of upstream problem definition and his ability to bridge technical and business domains in healthcare and government contexts.[^newnexus] [^career-plan]
 
 His interview pitch: *"I've spent years building complex systems for demanding clients, and I've noticed the highest-leverage work is always upstream — getting the problem definition right before a line of code is written."*
 
 ## See Also
 
-- [[Jan_Wilmake]]
+- [[Jan Wilmake]]
 - [[Groningen]]
+- [[Career Plan 2026]]
+
+[^newnexus]: New Nexus interview prep notes: `newnexus.md`
+[^career-plan]: Career plan and job search notes: `career/career-plan.md`

@@ -34,11 +34,11 @@ In May 2025, Jan did a trial week with Iterate at a rate of **$3,600 for the wee
 
 ## cf-artifact-viewer (April 2026)
 
-On April 22, 2026, Templestein published **cf-artifact-viewer** (`iterate/cf-artifact-viewer`) — a Cloudflare [[Cloudflare_Artifacts|Artifacts]] browser and editor that can be deployed to a user's own Cloudflare account with one click. He posted on X: *"you should now be able to deploy this to your own Cloudflare account with one click."* Jan browsed the GitHub repository and the live demo at `artifacts.iterate-dev-jonas.com`, continuing to evaluate [[Cloudflare_Artifacts]] as potential infrastructure for [[Self-Driving_Repos]].
+On April 22, 2026, Templestein published **cf-artifact-viewer** (`iterate/cf-artifact-viewer`) — a Cloudflare [[Cloudflare_Artifacts|Artifacts]] browser and editor that can be deployed to a user's own Cloudflare account with one click. He posted on X: *"you should now be able to deploy this to your own Cloudflare account with one click."* Jan browsed the GitHub repository and the live demo at `artifacts.iterate-dev-jonas.com`, continuing to evaluate [[Cloudflare_Artifacts]] as potential infrastructure for [[Self-Driving_Repos]].[^activity-2026-04-22]
 
 ## Cloudflare Bindings-as-API-Wrappers Idea (April 2026)
 
-On April 24, 2026, Templestein posted an influential idea on X: *"The cloudflare 'bindings instead of env vars' thing is so good that I sometimes wonder why they don't have wrappers for popular third party APIs — env.STRIPE — that sort of thing."* He followed up with a technical approach: using lightweight wrapper Workers and service bindings, so tokens never leak. Jan liked the tweet. Cloudflare's Irvine Broque responded with interest, calling it the *"next fun collab"* and suggesting OAuth-based Stripe integration where *"it's literally impossible to leak the API token."*
+On April 24, 2026, Templestein posted an influential idea on X: *"The cloudflare 'bindings instead of env vars' thing is so good that I sometimes wonder why they don't have wrappers for popular third party APIs — env.STRIPE — that sort of thing."* He followed up with a technical approach: using lightweight wrapper Workers and service bindings, so tokens never leak. Jan liked the tweet. Cloudflare's Irvine Broque responded with interest, calling it the *"next fun collab"* and suggesting OAuth-based Stripe integration where *"it's literally impossible to leak the API token."*[^activity-2026-04-24-jonas]
 
 This is notable because it connects directly to the infrastructure layer both Templestein and Jan operate in — Cloudflare Workers as the substrate for agent-friendly services — and represents a potential new Cloudflare product direction that could benefit both [[Iterate]] and Jan's Cloudflare-based projects.
 
@@ -48,10 +48,10 @@ This is notable because it connects directly to the infrastructure layer both Te
 - [[Iterate]]
 - [[Cloudflare_Artifacts]]
 
+[^activity-2026-04-24-jonas]: Activity summary: `x-archive/raw/activity-summary/2026-04-24.md`
 [^x]: X profile: https://x.com/jonas
 [^rocketreach]: Career history: rocketreach.co/jonas-templestein-email
 [^jasshah]: Monzo founding team history: jasshah.substack.com/p/monzo-10-years-that-changed-banking-1
 [^iterate]: Iterate website: iterate.com
 [^diary]: Personal diary May 2025: `2025/2025-05-diary.md`
 [^activity-2026-04-22]: Activity summary: `x-archive/raw/activity-summary/2026-04-22.md`
-[^activity-2026-04-24-jonas]: Activity summary: `x-archive/raw/activity-summary/2026-04-24.md`

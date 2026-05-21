@@ -6,53 +6,53 @@ category: Events
 
 # Cloudflare Agents Week
 
-**Cloudflare Agents Week** was a multi-day product launch event held by [[Cloudflare]] in April 2026, introducing a suite of infrastructure primitives designed for AI agent workloads. [[Jan_Wilmake]] followed the event closely, as several announcements were directly relevant to his [[Self-Driving_Repos]] and [[ProductSim]] projects.
+**Cloudflare Agents Week** was a multi-day product launch event held by [[Cloudflare]] in April 2026, introducing a suite of infrastructure primitives designed for AI agent workloads. [[Jan_Wilmake]] followed the event closely, as several announcements were directly relevant to his [[Self-Driving_Repos]] and [[ProductSim]] projects.[^activity-2026-04-12]
 
 ## Announcements
 
 ### Browser Run
 
-**Browser Run** gives AI agents a browser — a Cloudflare-hosted headless browser that agents can control programmatically. Jan evaluated Browser Run as a potential infrastructure layer for [[ProductSim]]'s E2E testing, spending 7+ minutes reading the blog post and exploring the documentation (Live View, Limits, Changelog, Pricing) on April 16, 2026.
+**Browser Run** gives AI agents a browser — a Cloudflare-hosted headless browser that agents can control programmatically. Jan evaluated Browser Run as a potential infrastructure layer for [[ProductSim]]'s E2E testing, spending 7+ minutes reading the blog post and exploring the documentation (Live View, Limits, Changelog, Pricing) on April 16, 2026.[^activity-2026-04-16]
 
 ### Cloudflare Mesh
 
-**Cloudflare Mesh** provides private mesh IPs for every device with post-quantum encrypted networking between servers, laptops, and phones. Announced via the Cloudflare Changelog on April 14, 2026.
+**Cloudflare Mesh** provides private mesh IPs for every device with post-quantum encrypted networking between servers, laptops, and phones. Announced via the Cloudflare Changelog on April 14, 2026.[^activity-2026-04-14]
 
 ### Email for Agents
 
-**Email Service** entered public beta, branded as "Ready for your agents." Jan read the announcement on April 16, 2026.
+**Email Service** entered public beta, branded as "Ready for your agents." Jan read the announcement on April 16, 2026.[^activity-2026-04-16]
 
 ### AI Platform
 
-**AI Platform** is an inference layer designed specifically for agents. Jan read this announcement on both April 16 and again on April 17, 2026.
+**AI Platform** is an inference layer designed specifically for agents. Jan read this announcement on both April 16 and again on April 17, 2026.[^activity-2026-04-16]
 
 ### Durable Object Facets
 
-**Durable Object Facets** — announced by Kenton Varda on April 13, 2026 — are a new primitive enabling Dynamic Workers to give sandboxed agents access to a SQLite database via Durable Objects. This is relevant to Jan's exploration of agent sandboxing via [[Cloudflare_Sandbox]].
+**Durable Object Facets** — announced by Kenton Varda on April 13, 2026 — are a new primitive enabling Dynamic Workers to give sandboxed agents access to a SQLite database via Durable Objects. This is relevant to Jan's exploration of agent sandboxing via [[Cloudflare_Sandbox]].[^activity-2026-04-13]
 
 ### Local Explorer and CLI
 
-The **Cloudflare Local Explorer** is a web UI + local API enabling agents to iterate faster on local Cloudflare resources. A new CLI feature allows users to "shell into a running Sandbox, inspect filesystems, and debug agentic workflows in real-time from your terminal." Jan read Matt 'TK' Taylor's thread about this on April 14, 2026.
+The **Cloudflare Local Explorer** is a web UI + local API enabling agents to iterate faster on local Cloudflare resources. A new CLI feature allows users to "shell into a running Sandbox, inspect filesystems, and debug agentic workflows in real-time from your terminal." Jan read Matt 'TK' Taylor's thread about this on April 14, 2026.[^activity-2026-04-14]
 
 ### Registrar API Beta
 
-The **Registrar API** entered beta on April 15, 2026 — allowing programmatic domain search, availability checking, and purchasing. Jan celebrated this as a feature he had previously requested: *"Yay! Asked for this and now it's here!"*
+The **Registrar API** entered beta on April 15, 2026 — allowing programmatic domain search, availability checking, and purchasing. Jan celebrated this as a feature he had previously requested: *"Yay! Asked for this and now it's here!"*[^x-posts-2026-04-15]
 
 ### Agent Voice (Agent Lee)
 
-On April 15, 2026, Cloudflare introduced **Agent Lee** — voice-enabled agents on Cloudflare — via the blog post "Add voice to your agent."
+On April 15, 2026, Cloudflare introduced **Agent Lee** — voice-enabled agents on Cloudflare — via the blog post "Add voice to your agent."[^activity-2026-04-15]
 
 ### Artifacts
 
-**[[Cloudflare_Artifacts]]** — git-native versioned storage for AI agents — was announced in late April 2026. Key feature: **lazy file hydration** allows agents to mount large Git repositories without a full clone. Jan spent ~20 minutes on April 19 reading the blog post and exploring the open-source `cloudflare/artifact-fs` driver. He identified Artifacts as potentially significant infrastructure for [[Self-Driving_Repos]].
+**[[Cloudflare_Artifacts]]** — git-native versioned storage for AI agents — was announced in late April 2026. Key feature: **lazy file hydration** allows agents to mount large Git repositories without a full clone. Jan spent ~20 minutes on April 19 reading the blog post and exploring the open-source `cloudflare/artifact-fs` driver. He identified Artifacts as potentially significant infrastructure for [[Self-Driving_Repos]].[^activity-2026-04-19]
 
 ### Billable Usage Dashboard
 
-On April 22, 2026, Cloudflare shipped a new **Billable Usage Dashboard** — a cost breakdown tool enabling users to see exactly which services are generating charges. [[Dmitry_Alexenko]] announced the feature on X, noting that *"Why was I charged this amount?"* was one of the most common billing support tickets. Jan retweeted the announcement and checked the dashboard himself. This directly addresses the billing transparency pain point Jan had publicly raised on April 14, when he agreed with @levelsio that *"there's no way to find which worker causes cost."*
+On April 22, 2026, Cloudflare shipped a new **Billable Usage Dashboard** — a cost breakdown tool enabling users to see exactly which services are generating charges. [[Dmitry_Alexenko]] announced the feature on X, noting that *"Why was I charged this amount?"* was one of the most common billing support tickets. Jan retweeted the announcement and checked the dashboard himself. This directly addresses the billing transparency pain point Jan had publicly raised on April 14, when he agreed with @levelsio that *"there's no way to find which worker causes cost."*[^activity-2026-04-22]
 
 ### Agent Readiness Tool
 
-On April 17, 2026, Cloudflare launched **isitagentready.com** — a tool to help site owners understand how well their sites are optimised for AI agents. Jan liked the announcement tweet and revisited the accompanying blog post (`blog.cloudflare.com/agent-readiness/`) on both April 18 and 19.
+On April 17, 2026, Cloudflare launched **isitagentready.com** — a tool to help site owners understand how well their sites are optimised for AI agents. Jan liked the announcement tweet and revisited the accompanying blog post (`blog.cloudflare.com/agent-readiness/`) on both April 18 and 19.[^activity-2026-04-17] [^activity-2026-04-19]
 
 ## Relevance to Jan's Projects
 
@@ -64,7 +64,7 @@ Agents Week validated several assumptions behind Jan's product architecture:
 - **AI Platform** offers an inference layer that could reduce the cost of running Self-Driving Repo agents
 - **Billable Usage Dashboard** directly addresses the billing transparency pain point Jan had surfaced on April 14
 
-Jan noted Cloudflare's billing transparency problem on April 14, agreeing with @levelsio that *"there's no way to find which worker causes cost. having 100s of workers this becomes a mystery."* His tweet received 14 likes and 1 retweet — his most-engaged post that week. Eight days later, on April 22, [[Dmitry_Alexenko]] shipped the Billable Usage Dashboard — and Jan retweeted the announcement, closing the feedback loop.
+Jan noted Cloudflare's billing transparency problem on April 14, agreeing with @levelsio that *"there's no way to find which worker causes cost. having 100s of workers this becomes a mystery."* His tweet received 14 likes and 1 retweet — his most-engaged post that week. Eight days later, on April 22, [[Dmitry_Alexenko]] shipped the Billable Usage Dashboard — and Jan retweeted the announcement, closing the feedback loop.[^x-posts-2026-04-14] [^activity-2026-04-22]
 
 ## See Also
 
@@ -75,3 +75,14 @@ Jan noted Cloudflare's billing transparency problem on April 14, agreeing with @
 - [[Jan_Wilmake]]
 - [[Cloudflare_Artifacts]]
 - [[Dmitry_Alexenko]]
+
+[^activity-2026-04-12]: Activity summary: `x-archive/raw/activity-summary/2026-04-12.md`
+[^activity-2026-04-13]: Activity summary: `x-archive/raw/activity-summary/2026-04-13.md`
+[^activity-2026-04-14]: Activity summary: `x-archive/raw/activity-summary/2026-04-14.md`
+[^activity-2026-04-15]: Activity summary: `x-archive/raw/activity-summary/2026-04-15.md`
+[^activity-2026-04-16]: Activity summary: `x-archive/raw/activity-summary/2026-04-16.md`
+[^x-posts-2026-04-14]: X post archive: `x-archive/raw/x-posts/2026-04-14.md`
+[^x-posts-2026-04-15]: X post archive: `x-archive/raw/x-posts/2026-04-15.md`
+[^activity-2026-04-17]: Activity summary: `x-archive/raw/activity-summary/2026-04-17.md`
+[^activity-2026-04-19]: Activity summary: `x-archive/raw/activity-summary/2026-04-19.md`
+[^activity-2026-04-22]: Activity summary: `x-archive/raw/activity-summary/2026-04-22.md`

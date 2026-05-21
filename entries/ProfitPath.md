@@ -6,20 +6,25 @@ category: Organizations
 
 # ProfitPath
 
-**ProfitPath** (`profitpath.com`) is a SaaS platform for Amazon FBA (Fulfillment by Amazon) and online retail arbitrage. It helps sellers scan wholesale lists, find profitable products, and manage their Amazon reselling business. The company operates under the parent entity **Fourbite GmbH**.
+**ProfitPath** (`profitpath.com`) is a SaaS platform for Amazon FBA (Fulfillment by Amazon) and online retail arbitrage. It helps sellers scan wholesale lists, find profitable products, and manage their Amazon reselling business. The company operates under the parent entity **Fourbite GmbH**.[^activity-2026-04-13]
 
 ## Relevance to Jan Wilmake
 
-In April 2026, [[Jan_Wilmake]] researched ProfitPath as a potential employer during his active job search. He browsed the company's jobs page (which listed a **Senior Product Engineer** opening), read five pages of their blog, and reviewed the main site including their supplier and about sections.
+In April 2026, [[Jan_Wilmake]] researched ProfitPath as a potential employer during his [[Career_Plan_2026|active job search]]. He browsed the company's jobs page (which listed a **Senior Product Engineer** opening), read five pages of their blog, and reviewed the main site including their supplier and about sections.[^activity-2026-04-13]
 
 ### Interview Preparation
 
-On April 13, 2026, Jan ran a dedicated Claude session — *"Preparing for ProfitPath senior product engineer interview"* — lasting approximately 16 minutes. He also corresponded via email about scheduling a meeting. On April 14, Jan also found the founder's X profile, **@atmosole** (Luca Jurende), and watched a YouTube video by Jurende.
+On April 13, 2026, Jan ran a dedicated Claude session — *"Preparing for ProfitPath senior product engineer interview"* — lasting approximately 16 minutes. He also corresponded via email about scheduling a meeting. On April 14, Jan also found the founder's X profile, **@atmosole** (Luca Jurende), and watched a YouTube video by Jurende.[^activity-2026-04-13] [^activity-2026-04-14]
 
 ### Founder Connection
 
-On April 19, 2026, Jan liked a tweet by @atmosole about product strategy: *"had dinner with sellers, listened to their software rants, turn those rants into tickets on Monday. That's the whole product strategy."* This suggests ongoing engagement with ProfitPath's founder even after the initial research phase.
+On April 19, 2026, Jan liked a tweet by @atmosole about product strategy: *"had dinner with sellers, listened to their software rants, turn those rants into tickets on Monday. That's the whole product strategy."* This suggests ongoing engagement with ProfitPath's founder even after the initial research phase.[^activity-2026-04-19]
 
 ## See Also
 
 - [[Jan_Wilmake]]
+- [[Career_Plan_2026]]
+
+[^activity-2026-04-13]: Activity summary: `x-archive/raw/activity-summary/2026-04-13.md`
+[^activity-2026-04-14]: Activity summary: `x-archive/raw/activity-summary/2026-04-14.md`
+[^activity-2026-04-19]: Activity summary: `x-archive/raw/activity-summary/2026-04-19.md`

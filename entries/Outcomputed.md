@@ -6,7 +6,7 @@ category: Concepts
 
 # Outcomputed
 
-**Outcomputed** is a concept introduced by [[Jan_Wilmake]] in a 2024 essay describing the trajectory of human labour utility as artificial intelligence capabilities compound. The core claim: for any given knowledge worker, there is a point in time — their personal "outcomputed" threshold — at which machines can perform their primary work tasks better than they can. Once crossed, the conventional basis for that person's economic participation largely evaporates.
+**Outcomputed** is a concept introduced by [[Jan Wilmake]] in a 2024 essay describing the trajectory of human labour utility as artificial intelligence capabilities compound. The core claim: for any given knowledge worker, there is a point in time — their personal "outcomputed" threshold — at which machines can perform their primary work tasks better than they can. Once crossed, the conventional basis for that person's economic participation largely evaporates.
 
 Jan's own framing: *"GPT-4o is reported to be smarter than highly educated knowledge workers (knowledge-wise) and this trend is continuing. The % of tasks that computers can do will steadily go up over the coming years. In any case, there will be a point in time at which you'll be outcompeted by machines: Outcomputed."*[^outcomputed]
 
@@ -26,7 +26,7 @@ Jan's proposed strategy for staying relevant draws on an insight from Dan Shippe
 
 The analogy: in the current world, leverage comes from directing other humans to work for you (management, delegation, hiring). In the AI era, leverage comes from directing machines. The fundamental skill shifts from domain expertise to **meta-level orchestration**: knowing which AI systems to deploy, how to evaluate their outputs, how to chain them, and how to identify which problems are worth solving.
 
-Jan's own bet: *"My bet is to build highly reliable agents, so I can enable this compute allocation to be highly effective in the real world — both for myself and for others."*
+Jan's own bet: *"My bet is to build highly reliable agents, so I can enable this compute allocation to be highly effective in the real world — both for myself and for others."*[^outcomputed]
 
 This directly informed his decision to invest in agent infrastructure ([[uithub]], [[sponsorflare]], [[ActionSchema]]) rather than building end-user AI applications that would themselves be outcompeted.
 
@@ -41,4 +41,6 @@ It also connects to Jan's critique of startup culture ([[Reciprocal_Networks]]):
 - [[The_World_Is_Information]]
 - [[Jan_Wilmake]]
 - [[ActionSchema]]
-- [[Scalable_Knowledge_Work]]
+- [[Career_Plan_2026]]
+
+[^outcomputed]: Blog post: `../blog/2024/outcomputed.md`

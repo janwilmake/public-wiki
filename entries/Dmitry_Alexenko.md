@@ -26,9 +26,9 @@ Separately, he was involved in Cloudflare's billing team work involving a 30+ en
 
 ## Billable Usage Dashboard (April 2026)
 
-On April 22, 2026, Alexenko shipped Cloudflare's new **Billable Usage Dashboard** — a cost breakdown tool enabling users to identify exactly which services are generating charges. He posted on X: *"Why was I charged this amount? One of the most common billing support tickets we got. We shipped a new Billable Usage Dashboard..."* Jan retweeted the announcement.
+On April 22, 2026, Alexenko shipped Cloudflare's new **Billable Usage Dashboard** — a cost breakdown tool enabling users to identify exactly which services are generating charges. He posted on X: *"Why was I charged this amount? One of the most common billing support tickets we got. We shipped a new Billable Usage Dashboard..."* Jan retweeted the announcement.[^activity-2026-04-22]
 
-This directly addressed a pain point Jan had publicly surfaced on April 14, 2026, when he agreed with @levelsio that *"there's no way to find which worker causes cost. having 100s of workers this becomes a mystery."* The shipping of the dashboard — just eight days after Jan's complaint — closed a notable feedback loop between Jan's public Cloudflare commentary and the team's response.
+This directly addressed a pain point Jan had publicly surfaced on April 14, 2026, when he agreed with @levelsio that *"there's no way to find which worker causes cost. having 100s of workers this becomes a mystery."* The shipping of the dashboard — just eight days after Jan's complaint — closed a notable feedback loop between Jan's public Cloudflare commentary and the team's response.[^activity-2026-04-22]
 
 ## Connection to Jan
 

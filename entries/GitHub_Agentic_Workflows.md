@@ -6,15 +6,15 @@ category: Organizations
 
 # GitHub Agentic Workflows
 
-**GitHub Agentic Workflows** (gh-aw) is a product launched by GitHub in April 2026 that enables users to automate repository tasks using AI agents. It became the primary competitor to [[Jan_Wilmake]]'s [[Self-Driving_Repos]] platform within days of both products being announced.
+**GitHub Agentic Workflows** (gh-aw) is a product launched by GitHub in April 2026 that enables users to automate repository tasks using AI agents. It became the primary competitor to [[Jan_Wilmake]]'s [[Self-Driving_Repos]] platform within days of both products being announced.[^activity-2026-04-13]
 
 ## Discovery
 
-On April 12, 2026, after Jan posted about Self-Driving Repos and asked followers to *"roast my landing page,"* community member @jesepinkman9900 asked *"How is it different from GitHub Agentic Workflows?"* — alerting Jan to the existence of gh-aw. Jan had not previously been aware of the product.
+On April 12, 2026, after Jan posted about Self-Driving Repos and asked followers to *"roast my landing page,"* community member @jesepinkman9900 asked *"How is it different from GitHub Agentic Workflows?"* — alerting Jan to the existence of gh-aw. Jan had not previously been aware of the product.[^x-posts-2026-04-13]
 
 ## Competitive Analysis
 
-On April 13, 2026, Jan conducted an exhaustive competitive teardown of gh-aw, spending several hours researching:
+On April 13, 2026, Jan conducted an exhaustive competitive teardown of gh-aw, spending several hours researching:[^activity-2026-04-13]
 
 - The gh-aw homepage and documentation
 - The tools reference and custom MCP servers guide
@@ -25,27 +25,31 @@ On April 13, 2026, Jan conducted an exhaustive competitive teardown of gh-aw, sp
 
 ## Key Differentiators (Jan's Assessment)
 
-Jan identified several differentiators in favour of [[Self-Driving_Repos]]:
+Jan identified several differentiators in favour of [[Self-Driving_Repos]]:[^x-posts-2026-04-13]
 
 1. **Web search**: Self-Driving Repos integrates web search via @p0 (Parallel AI); gh-aw does not
 2. **Commit history access**: Self-Driving Repos agents can see the full commit history
 3. **Issues and PRs**: Self-Driving Repos agents can read issues and pull requests
 4. **Upstream repos**: Self-Driving Repos supports read-only mounting of additional repositories as filesystem sources
 
-A community member (@jesepinkman9900) noted that gh-aw does have budget control capabilities through API key limits and monthly/weekly spending caps via Gemini/Anthropic/Codex keys.
+A community member (@jesepinkman9900) noted that gh-aw does have budget control capabilities through API key limits and monthly/weekly spending caps via Gemini/Anthropic/Codex keys.[^activity-2026-04-13]
 
 ## Blog Post
 
-Jan published a full comparison blog post at `selfdrivingrepo.com/blog/selfdrivingrepo-vs-gh-aw` on the morning of April 13, 2026.
+Jan published a full comparison blog post at `selfdrivingrepo.com/blog/selfdrivingrepo-vs-gh-aw` on the morning of April 13, 2026.[^x-posts-2026-04-13]
 
 ## Strategic Implications
 
-The launch of gh-aw was a significant competitive event for Self-Driving Repos. GitHub's vastly larger distribution and existing developer base represents a formidable advantage. However, Jan's immediate assessment was that gh-aw's tooling was more limited — particularly the absence of web search and cross-repo context — giving Self-Driving Repos a feature-based differentiation story.
+The launch of gh-aw was a significant competitive event for Self-Driving Repos. GitHub's vastly larger distribution and existing developer base represents a formidable advantage. However, Jan's immediate assessment was that gh-aw's tooling was more limited — particularly the absence of web search and cross-repo context — giving Self-Driving Repos a feature-based differentiation story.[^goals]
 
-The launch prompted Jan to prioritise *"Launch and differentiate Selfdrivingrepo.com against GitHub Agentic Workflows"* as a top priority for mid-April 2026.
+The GOALS.md document in Jan's x-and-browser-archive repo identified *"Launch and differentiate Selfdrivingrepo.com against GitHub Agentic Workflows"* as one of Jan's top priorities for mid-April 2026.[^goals]
 
 ## See Also
 
 - [[Self-Driving_Repos]]
 - [[Jan_Wilmake]]
 - [[Parallel_AI]]
+
+[^x-posts-2026-04-13]: X post archive: `x-archive/raw/x-posts/2026-04-13.md`
+[^activity-2026-04-13]: Activity summary: `x-archive/raw/activity-summary/2026-04-13.md`
+[^goals]: Goals document: `x-archive/entries/GOALS.md`
