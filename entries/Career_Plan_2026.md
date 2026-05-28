@@ -1,6 +1,6 @@
 ---
 title: Career Plan 2026
-description: Jan Wilmake's active job search; Moyai intro call May 19, Blixt call May 20, Biscuit relationship active, Atlas Agency engaged
+description: Jan Wilmake's active job search; Moyai and Blixt intro calls completed; LinkedIn search resumed May 28; HACKADAM meetup
 category: Career
 ---
 
@@ -209,21 +209,52 @@ May 19 was a pivotal day. The morning opened with an **extensive job-hunting ses
 
 Mid-morning, Jan completed the **[[Moyai]] intro call** (~11:00–11:32 CEST) with co-founder Robert Hommes and **Wijnand Karsens**. He had prepared a PDF deck titled "Presentation for Moyai — AI Agent Reliability & Observability" and showed his GitHub profile during the meeting.
 
-### Pipeline Summary (as of May 20, 2026)
+### May 20: Blixt Call Completed
 
-| Company | Contact | Stage | Next Step |
-|---------|---------|-------|-----------|
-| **[[Moyai]]** | Robert Hommes, Wijnand Karsens | **Intro call completed May 19** | Send follow-up email; await feedback |
-| **[[Blixt]]** | Floris | **Intro call May 20 @ 15:00 CEST** | Research Blixt |
-| **[[Biscuit]]** | Ives van Hoorne, Maria Martin | Active relationship; post-event follow-up pending | Send follow-up to Ives/Maria |
-| **Atlas Agency** | Dineke | Call completed May 13 | Await next steps |
+The **[[Blixt]] intro call with Floris Weers** took place from approximately **13:00–13:30 CEST** via Google Meet — earlier than the originally scheduled 15:00 slot. Jan performed last-minute preparation just before the call, reading Floris's X post about automatic integration tests and Blixt's post about AI-driven testing with forked databases. During the call, Jan showed the [[OpenPolsia]] dashboard as a portfolio piece.
+
+Earlier that morning, Jan explored **INDEX by [[Parallel_AI|Parallel]]** — a new system that indexes websites for AI agent discovery. He also viewed the **front-end Member of Technical Staff** job listing at Parallel on Ashby.
+
+### May 21–24: Post-Sprint Decompression
+
+Following the high-intensity interview week of May 19–20, the period May 21–24 was largely passive. No follow-up emails were sent to any pipeline targets during this stretch, allowing several of the warm relationships to go cold.
+
+### May 25–27: New Interests Emerge
+
+- **May 25**: Wildcamping trip planning emerged as a new thread — researching bivouac spots near Groningen, purchasing trekking gear. Evening: Jan noticed the **MCP 2026-07-28 release candidate** specification (stateless, no handshake, no session ID).
+- **May 26**: Returned to the MCP RC spec for focused reading; LinkedIn messaging session suggesting continued professional networking.
+- **May 27**: No job-related activity.
+
+### May 28: LinkedIn Job Search Resumes — HACKADAM Day
+
+May 28 marked a shift back into active job search mode. Jan browsed **100+ recommended LinkedIn job positions**, clicking into multiple listings including a Full-Stack Developer role at YOHR Consultancy.
+
+The **[[HACKADAM]]** indie-maker meetup in Amsterdam is taking place today — Jan was personally tagged by @AbnerHout on May 22. The event offers an in-person networking opportunity.
+
+### Pipeline Summary (as of May 28, 2026)
+
+| Company | Contact | Stage | Days Since Last Action |
+|---------|---------|-------|----------------------|
+| **[[Moyai]]** | Robert Hommes, Wijnand Karsens | ✅ Intro call completed May 19 | 9 days |
+| **[[Blixt]]** | Floris Weers | ✅ Intro call completed May 20 | 8 days |
+| **[[Biscuit]]** | Ives van Hoorne, Maria Martin | Post-Bakin' Biscuit (May 15) | 13 days post-event |
+| **Atlas Agency** | Dineke | Call completed May 13 | 15 days |
 | **[[Topliner]]** | Arsen Ibragimov, Wijnand Karsens | Networking call completed May 11 | Wijnand confirmed as key network node |
-| **Youwe** (Groningen) | — | ✅ Applied May 19 | Await response |
-| **Learned** | — | Application started May 19 | Complete/await response |
+| **Youwe** (Groningen) | — | ✅ Applied May 19 | Awaiting response |
+| **Learned** | — | Application started May 19 | Awaiting response |
+| **YOHR Consultancy** | — | 🆕 Application form visited May 28 | New lead |
+| **[[Parallel_AI]]** | — | Front-end MTS role viewed May 20 | No application filed |
 | **Lightdash** (YC) | — | Explored May 19 | Decide on application |
 | **Harborn Digital** | — | Explored May 19 | Decide on application |
-| **Foreside** | — | Explored May 19 | Decide on application |
-| **Polarsteps** | — | Careers page browsed May 13 | Evaluate open roles |
+| **Polarsteps** | — | Careers page browsed May 13 | No follow-up |
+
+## Active Side Projects (April–May 2026)
+
+In addition to the ongoing projects listed above, Jan's April–May 2026 side projects include:
+
+- **[[ProductSim]]** — AI-powered E2E browser testing on PR preview deploys (launched April 15, 2026)
+- **[[Hackbot]]** — Early-stage exploration of AI-powered security/pentesting via MCP (domain registered April 21, 2026)
+- **[[Browser_History_Extension]]** — Chrome extension syncing browsing history to GitHub
 
 ## See Also
 
@@ -240,5 +271,8 @@ Mid-morning, Jan completed the **[[Moyai]] intro call** (~11:00–11:32 CEST) wi
 - [[Biscuit]]
 - [[Ives_van_Hoorne]]
 - [[Moyai]]
+- [[Blixt]]
 - [[Topliner]]
 - [[OpenPolsia]]
+- [[HACKADAM]]
+- [[Browser_History_Extension]]

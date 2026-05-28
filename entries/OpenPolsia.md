@@ -57,6 +57,15 @@ OpenPolsia was started on March 22, 2026, during an extremely productive period.
 
 This clustering of launches in March 2026 was the densest shipping period in Jan's post-Parallel AI career, enabled by Claude Code agentic workflows and Cloudflare's tooling.
 
+## Use as Interview Portfolio Piece
+
+OpenPolsia has been shown during multiple networking and interview calls in May 2026, serving as a live demonstration of Jan's autonomous agent architecture:
+
+- **May 12, 2026**: Shown to [[Ives_van_Hoorne]] during the [[Biscuit]] meeting — dashboard and GitHub repository
+- **May 20, 2026**: Shown to **Floris Weers** during the [[Blixt]] intro call — dashboard visited during the call, GitHub source also referenced
+
+The fact that Jan consistently reaches for OpenPolsia when demonstrating his work suggests it has become his primary "show, don't tell" portfolio piece — a live, running instance of an AI agent managing business operations.
+
 ## Conceptual Significance
 
 OpenPolsia represents Jan's most direct engagement with the idea of AI agents as autonomous business operators — not just as coding assistants, but as entities that create, run, and describe businesses without human bottlenecks. This connects to his broader philosophy in [[Agent_Friendly_Web]] (providing agents with clean information access) and [[Reciprocal_Networks]] (independent units operating through reliable APIs). An agent running multiple businesses on autopilot is, in effect, a one-person company operated by a non-person.
@@ -70,6 +79,8 @@ OpenPolsia represents Jan's most direct engagement with the idea of AI agents as
 - [[Agent_Friendly_Web]]
 - [[Reciprocal_Networks]]
 - [[Cloudflare_Sandbox]]
+- [[Biscuit]]
+- [[Blixt]]
 
 [^x-posts-2026-03-22]: X post archive: `x-archive/raw/posts/2026-03-22.md`
 [^x-posts-2026-03-24]: X post archive: `x-archive/raw/posts/2026-03-24.md`
