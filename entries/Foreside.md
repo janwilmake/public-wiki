@@ -1,24 +1,36 @@
 ---
 title: Foreside
-description: Tech company where Jan Wilmake has an intro call scheduled for June 2, 2026 at 15:00 CEST; discovered via LinkedIn job browsing on May 28–29
+description: Dutch tech consultancy; Jan Wilmake completed intro call June 2, 2026; Fullstack Developer role at foreside.nl
 category: Organizations
 ---
 
 # Foreside
 
-**Foreside** is a technology company that [[Jan_Wilmake]] discovered during his resumed LinkedIn job search in late May 2026. An introductory call is scheduled for **Tuesday, June 2, 2026 at 15:00–15:45 CEST**.
+**Foreside** (`foreside.nl`) is a Dutch technology consultancy that [[Jan_Wilmake]] discovered during his resumed LinkedIn job search in late May 2026. An introductory call was completed on **Tuesday, June 2, 2026 at 15:00–15:45 CEST**.
+
+## Company
+
+Foreside is a consultancy offering fullstack, frontend, backend, test, DevOps, and cloud engineering roles. Their website (`foreside.nl`) includes a company story page and a dedicated **Fullstack Developer** job listing that Jan researched ahead of the call.
 
 ## Discovery and Pipeline
 
-On May 28, 2026, Jan browsed Foreside's LinkedIn company jobs page during his extended 50-minute LinkedIn job-search session — the most active job-hunting day in over a week.
+| Date | Event |
+|------|-------|
+| May 19, 2026 | First exploration of Foreside during a broad job application blitz |
+| May 28, 2026 | Browsed Foreside's LinkedIn company jobs page during an extended 50-minute LinkedIn job-search session |
+| May 29, 2026 | Received calendar invite: *"Invitation: Intro Foreside @ Tue Jun 2, 2026 3pm–3:45pm CEST"* |
+| June 2, 2026 | **Intro call preparation and completion**: Jan re-read the calendar invite, updated his LinkedIn experience section, visited `foreside.nl` reading the Fullstack Developer job listing and company story page, then completed the call at 15:00–15:45 CEST |
+| June 7, 2026 | Foreside Fullstack Developer listing appeared again in LinkedIn job search results |
 
-On May 29, 2026, Jan received a **calendar invite** via Fastmail titled *"Invitation: Intro Foreside @ Tue Jun 2, 2026 3pm–3:45pm CEST"* — confirming the pipeline has advanced from browsing to a scheduled introductory conversation.
+### June 2: Intro Call Completed
 
-This is now the **most recently scheduled interview** in Jan's active pipeline and one of the only live leads remaining after the [[Moyai]] and [[Blixt]] opportunities went cold.
+On June 2, 2026, Jan performed focused pre-call preparation starting approximately two hours before the scheduled call. He re-read the Foreside calendar invite, updated his LinkedIn experience section, visited `foreside.nl` to read both the Fullstack Developer job listing and the "Our Story" page, and also reviewed the **Squads** Product Engineer listing on Notion (a parallel opportunity discovered the same day). The call itself ran from 15:00 to 15:45 CEST.
+
+No post-call follow-up activity has been observed as of June 11, though the job search has intensified significantly in the period since, with multiple new applications and interview invitations from other companies.
 
 ## Context
 
-Foreside enters Jan's pipeline during a period of renewed job-search activity following an extended passive stretch (May 21–27). Other applications filed in the same week include:
+Foreside entered Jan's pipeline during a period of renewed job-search activity following an extended passive stretch (May 21–27). The Foreside call was the first live interview since the [[Moyai]] call (May 19) and [[Blixt]] call (May 20) — both of which went cold due to lack of follow-up. Other applications filed in the same week include:
 
 - **Creative Clicks B.V.** — Senior Fullstack Engineer (Node.js/TypeScript), applied May 28
 - **Itproposal** — Front-end Engineer (TypeScript/React), applied May 29

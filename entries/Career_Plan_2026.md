@@ -1,6 +1,6 @@
 ---
 title: Career Plan 2026
-description: Jan Wilmake's active job search; Moyai and Blixt intro calls completed; LinkedIn search resumed May 28; HACKADAM meetup
+description: Jan Wilmake's 2026 job search; AI Engineer interview scheduled June 12; Foreside call completed June 2; application blitz June 2–10
 category: Career
 ---
 
@@ -229,24 +229,119 @@ Following the high-intensity interview week of May 19–20, the period May 21–
 
 May 28 marked a shift back into active job search mode. Jan browsed **100+ recommended LinkedIn job positions**, clicking into multiple listings including a Full-Stack Developer role at YOHR Consultancy.
 
-The **[[HACKADAM]]** indie-maker meetup in Amsterdam is taking place today — Jan was personally tagged by @AbnerHout on May 22. The event offers an in-person networking opportunity.
+The **[[HACKADAM]]** indie-maker meetup in Amsterdam took place today — Jan was personally tagged by @AbnerHout on May 22.
 
-### Pipeline Summary (as of May 28, 2026)
+### May 29–31: Applications Continue
 
-| Company | Contact | Stage | Days Since Last Action |
-|---------|---------|-------|----------------------|
-| **[[Moyai]]** | Robert Hommes, Wijnand Karsens | ✅ Intro call completed May 19 | 9 days |
-| **[[Blixt]]** | Floris Weers | ✅ Intro call completed May 20 | 8 days |
-| **[[Biscuit]]** | Ives van Hoorne, Maria Martin | Post-Bakin' Biscuit (May 15) | 13 days post-event |
-| **Atlas Agency** | Dineke | Call completed May 13 | 15 days |
-| **[[Topliner]]** | Arsen Ibragimov, Wijnand Karsens | Networking call completed May 11 | Wijnand confirmed as key network node |
-| **Youwe** (Groningen) | — | ✅ Applied May 19 | Awaiting response |
-| **Learned** | — | Application started May 19 | Awaiting response |
-| **YOHR Consultancy** | — | 🆕 Application form visited May 28 | New lead |
-| **[[Parallel_AI]]** | — | Front-end MTS role viewed May 20 | No application filed |
-| **Lightdash** (YC) | — | Explored May 19 | Decide on application |
-| **Harborn Digital** | — | Explored May 19 | Decide on application |
-| **Polarsteps** | — | Careers page browsed May 13 | No follow-up |
+- **May 29**: Received a calendar invite for an intro call with **[[Foreside]]** on June 2 at 15:00 CEST — the pipeline's most recently scheduled interview.
+- **May 29**: Applied to **Itproposal** Front-end Engineer and browsed CIMSOLUTIONS Front-end Developer listings.
+- **May 31**: Built and launched **[[YumScan]]** (`getyumscan.com`) — a restaurant menu visual browser app — in a single morning, the first new product since April.
+
+### June 2: Foreside Intro Call Completed
+
+June 2 was a pivotal day. Jan completed the **[[Foreside]] intro call** at 15:00–15:45 CEST after focused preparation (reading the Fullstack Developer listing, updating LinkedIn, reviewing the company story page). This was the first live interview since Moyai (May 19) and Blixt (May 20).
+
+Jan also discovered **Squads** — a new potential employer — via a Notion job listing ("Product Engineer - Squads") that he would study extensively over the following days.
+
+The **aiGrunn Café @ Niemeyer** (Groningen AI meetup, June 10) invite was received the same day.
+
+### June 3: Application Blitz — Squads, Aceve, Remotive Spreadsheet
+
+June 3 was the most intensive job application day since May 19. Jan spent the morning deeply researching the **Squads Product Engineer** role on Notion (~15 minutes across six sessions) and ran an extensive LinkedIn recommended jobs sweep (50+ positions scrolled).
+
+Key applications and explorations:
+
+| Company | Role | Action |
+|---------|------|--------|
+| **Aceve** | AI Engineer | Application started on Ashby |
+| **Giant Swarm** | Frontend Engineer (100% Remote) | Application form accessed |
+| **Fueled** | Senior Full Stack Engineer | Application form accessed (Greenhouse) |
+| **Eet.nu** | — | Checked API docs and vacancy page |
+| **Forest Admin** | — | Explored company and careers page |
+
+Jan also discovered and spent significant time on the **"900+ Startups Hiring Remotely in 2026"** spreadsheet by Remotive.com — browsing it repeatedly and clicking through to multiple companies (Tenex, Hugo Events, Unit4, Forest Admin). This represented a new discovery channel for remote opportunities.
+
+### June 4–5: Rest Period — Rejections Received
+
+June 4 and 5 were leisure-dominated. One notable signal: Jan received **rejection emails from OpenZeppelin and Mapbox** on June 5 — confirming active applications had been made to these companies in prior days.
+
+### June 6: Hyre.io Discovery + Continued Networking
+
+On June 6, Jan researched *Data Annotation* as a potential income source and explored job listings at **Inetro B.V.** (Full Stack Developer on LinkedIn), messaging **Ian Tettero** on LinkedIn.
+
+### June 7: The Flex Application + AccessOwl + Interview Prep
+
+June 7 featured active job hunting with deliberate interview preparation:
+
+| Company | Role | Action |
+|---------|------|--------|
+| **The Flex** | Founding Engineer | Application submitted on Ashby; used Claude for *"Answering tricky job interview questions"* in preparation |
+| **AccessOwl** (YC) | AI-enabled Senior Software Engineer (TypeScript) | Explored via YC Work at a Startup; application form accessed |
+| **BairesDev** | — | Application submitted |
+
+This was the first observed use of Claude specifically for interview preparation — a *"Answering tricky job interview questions"* session — suggesting Jan is entering a more strategic phase of the job search.
+
+### June 8: aiGrunn RSVP + LinkedIn Networking
+
+On June 8, Jan **RSVP'd for the aiGrunn Café @ Niemeyer** event (June 10, Groningen) — signing up via Google Forms after reading the email invite. This is the first confirmed local tech meetup attendance since the [[HACKADAM]] invite on May 28.
+
+Jan continued LinkedIn networking, including viewing a **Senior Front-end developer / AI** freelance role at Morgan Black and exploring **Wovian** (Data & AI Co-founder role).
+
+A meeting with **Luc from Hyre.io** was scheduled for June 10 at 14:30 CEST.
+
+### June 9: LinkedIn Messaging Blitz
+
+June 9 was dominated by **intensive LinkedIn messaging** — at least 6 different conversation threads were active throughout the morning, suggesting multiple recruiter or networking conversations happening simultaneously.
+
+Jan composed a **CV email** (subject: "CV Wijnand") and continued viewing the aiGrunn and Hyre meeting invites.
+
+### June 10: AI Engineer Interview Invitation — Most Significant Pipeline Development
+
+June 10 was the **most consequential day** in the job search since the Moyai/Blixt calls in mid-May. The morning opened with an extended Claude session on *"Finding a job effectively"* (~25 minutes) — the longest strategic job-search Claude session recorded.
+
+At approximately **09:29**, Jan opened a critical email: **"Interview Invitation – AI Engineer Role"** — and immediately checked the Sent folder, confirming he had previously applied. A **calendar invite** followed: *"Jan Wijnand Karsens (AI Engineer - Interview) @ Fri Jun 12, 2026 10:30am–11am (CEST)"*. Jan then researched the interviewer/company by visiting **ecomflowhq** on LinkedIn and browsing their job listings.
+
+Later in the morning, Jan explored **Hyre.io** (an AI recruiting tool) extensively — creating an account, exploring the dashboard/inbox/conversations, and viewing a Fullstack Developer career page. A meeting with **Luc from Hyre.io** was completed the same day at 14:30 CEST.
+
+Jan also updated his LinkedIn profile, viewing his own experience section and recommendations — consistent with pre-interview polishing.
+
+Additional X browsing surfaced a tweet from **Joris Falter** (VrijdagKlaar, AI automation consultancy in Amsterdam).
+
+Jan also attended the **aiGrunn Café @ Niemeyer** local AI meetup in Groningen.
+
+### Pipeline Summary (as of June 11, 2026)
+
+| Company | Contact | Stage | Next Step |
+|---------|---------|-------|-----------|
+| **AI Engineer Role** (ecomflowhq?) | — | 🟢 **Interview scheduled Jun 12 @ 10:30 CEST** | Prepare for interview |
+| **Hyre.io** | Luc | 🟢 Meeting completed Jun 10 @ 14:30 | Await next steps |
+| **[[Foreside]]** | — | ✅ Intro call completed Jun 2 | Awaiting response |
+| **Squads** | — | Product Engineer listing researched in depth Jun 2–3 | Application likely submitted |
+| **The Flex** | — | Application submitted Jun 7 (Founding Engineer) | Await response |
+| **AccessOwl** (YC) | — | Application form accessed Jun 7 | Await response |
+| **Aceve** | — | AI Engineer application started Jun 3 | Await response |
+| **Giant Swarm** | — | Frontend Engineer application started Jun 3 | Await response |
+| **BairesDev** | — | Application submitted Jun 7 | Await response |
+| **[[Moyai]]** | Robert Hommes, Wijnand Karsens | 🔴 Dead (23 days since call) | — |
+| **[[Blixt]]** | Floris Weers | 🔴 Dead (22 days since call) | — |
+
+**Notable signals as of June 11:**
+- 🟢 **AI Engineer interview scheduled June 12** — the most advanced active pipeline item
+- 🟢 **Hyre.io meeting completed June 10** — AI recruiting tool; may generate additional leads
+- 🟢 **aiGrunn Café attended June 10** — local Groningen AI meetup networking
+- 🟢 **Extended Claude session on job strategy** — "Finding a job effectively" (25 min) — signals deliberate strategic recalibration
+- 🟡 **OpenZeppelin and Mapbox rejections received** — June 5
+
+### Behavioural Pattern: New Sprint Cycle (June 2–10)
+
+The extended crash phase (May 21–June 1) appears to have ended. June 2–10 represents a **new sprint cycle** characterised by:
+
+1. **Strategic job search** — Claude used for interview prep and job strategy; deliberate research before calls
+2. **High application volume** — 8+ new applications in 8 days (Foreside, Squads, Aceve, Giant Swarm, Fueled, The Flex, AccessOwl, BairesDev)
+3. **Local networking resumed** — aiGrunn Café RSVP'd and attended
+4. **Active LinkedIn messaging** — 6+ conversation threads on June 9 alone
+
+The sprint has already yielded a concrete result: the **AI Engineer interview on June 12** — the first interview invitation received (as opposed to self-initiated) since the Moyai intro call email on May 15.
 
 ## Active Side Projects (April–May 2026)
 
@@ -272,7 +367,9 @@ In addition to the ongoing projects listed above, Jan's April–May 2026 side pr
 - [[Ives_van_Hoorne]]
 - [[Moyai]]
 - [[Blixt]]
+- [[Foreside]]
 - [[Topliner]]
 - [[OpenPolsia]]
 - [[HACKADAM]]
+- [[YumScan]]
 - [[Browser_History_Extension]]
