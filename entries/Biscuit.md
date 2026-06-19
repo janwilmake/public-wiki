@@ -6,11 +6,11 @@ category: Organizations
 
 # Biscuit
 
-**Biscuit** (`biscuit.so`) is an all-in-one platform for building businesses, created by [[Ives_van_Hoorne]] (founder of CodeSandbox). It provides project management, assets, models, brand identity, email, workflows, and preview capabilities in a single integrated environment. [[Jan_Wilmake]] began exploring Biscuit in May 2026 as both a potential product tool and a relationship/employment opportunity.
+**Biscuit** (`biscuit.so`) is an all-in-one platform for building businesses, created by [[Ives_van_Hoorne]] (founder of CodeSandbox). It provides project management, assets, models, brand identity, email, workflows, and preview capabilities in a single integrated environment. [[Jan Wilmake]] began exploring Biscuit in May 2026 as both a potential product tool and a relationship/employment opportunity.[^activity-2026-05-12]
 
 ## Platform Features
 
-Based on Jan's exploration of the platform on May 12, 2026, Biscuit includes:
+Based on Jan's exploration of the platform on May 12, 2026, Biscuit includes:[^browser-2026-05-12]
 
 - **Project creation and publishing** — guided onboarding with starter templates
 - **Asset management** — upload and organise brand assets
@@ -29,41 +29,41 @@ Biscuit positions itself as a tool for solo builders and founders, combining cap
 
 ### March 2026: Initial Interest
 
-On March 27, 2026, during his public job search, Jan expressed interest in a position at Biscuit in Amsterdam, alongside other opportunities.
+On March 27, 2026, during his public job search, Jan expressed interest in a position at Biscuit in Amsterdam, alongside other opportunities.[^x-posts-2026-03-27]
 
 ### May 4, 2026: Meeting Booked
 
-Jan booked a 30-minute meeting with Ives van Hoorne for May 8, later rescheduled to May 12. The meeting was arranged through Ives's company email (`ives@flits.inc`).
+Jan booked a 30-minute meeting with Ives van Hoorne for May 8, later rescheduled to May 12. The meeting was arranged through Ives's company email (`ives@flits.inc`).[^browser-2026-05-04]
 
 ### May 12, 2026: Deep Exploration and Ives Meeting
 
-On May 12, Jan spent approximately 30+ minutes building a project called **"Publican"** inside Biscuit — exploring project chats, assets, preview, email inbox, workflows, models, and brand pages. He researched Ives van Hoorne's X profile (`@CompuIves`) for ~6 minutes ahead of the meeting.
+On May 12, Jan spent approximately 30+ minutes building a project called **"Publican"** inside Biscuit — exploring project chats, assets, preview, email inbox, workflows, models, and brand pages. He researched Ives van Hoorne's X profile (`@CompuIves`) for ~6 minutes ahead of the meeting.[^activity-2026-05-12]
 
-The 30-minute Google Meet call with Ives ran from approximately 11:01 to 11:29. During the meeting, Jan showed the [[OpenPolsia]] dashboard and GitHub repository — demonstrating his autonomous business-agent work as a conversation piece.
+The 30-minute Google Meet call with Ives ran from approximately 11:01 to 11:29. During the meeting, Jan showed the [[OpenPolsia]] dashboard and GitHub repository — demonstrating his autonomous business-agent work as a conversation piece.[^browser-2026-05-12]
 
 ### May 13, 2026: Maria Follow-Up and Event Discovery
 
-Jan received an email from **Maria Martin** (at Biscuit) about the Publican project — a proactive follow-up from Biscuit's side, not initiated by Jan. He then researched Biscuit's X presence, including viewing a showcase by Justine Moore (who built a travel app on Biscuit in 30 minutes). He also discovered the **"Bakin' Biscuit"** event — a builder day at Biscuit's Amsterdam canal-side office on May 15, 2026, featuring demos at 5:00 PM. The tweet from Maria's personal account read: *"People of Amsterdam, come build your app with us this Friday, 15th May at our Bakin' Biscuit event."*
+Jan received an email from **Maria Martin** (at Biscuit) about the Publican project — a proactive follow-up from Biscuit's side, not initiated by Jan. He then researched Biscuit's X presence, including viewing a showcase by Justine Moore (who built a travel app on Biscuit in 30 minutes). He also discovered the **"Bakin' Biscuit"** event — a builder day at Biscuit's Amsterdam canal-side office on May 15, 2026, featuring demos at 5:00 PM. The tweet from Maria's personal account read: *"People of Amsterdam, come build your app with us this Friday, 15th May at our Bakin' Biscuit event."*[^activity-2026-05-13] [^x-likes-2026-05-13]
 
 ### May 15, 2026: Bakin' Biscuit Event
 
-The **"Bakin' Biscuit"** builder event took place on May 15, 2026 at Biscuit's Amsterdam canal-side office, with demos scheduled at 5:00 PM. Jan's browser history for May 15 shows no Biscuit-related activity — browsing started at 17:06 with Netflix film selection. This suggests Jan either attended the event in person (without device usage) or did not attend.
+The **"Bakin' Biscuit"** builder event took place on May 15, 2026 at Biscuit's Amsterdam canal-side office, with demos scheduled at 5:00 PM. Jan's browser history for May 15 shows no Biscuit-related activity — browsing started at 17:06 with Netflix film selection. This suggests Jan either attended the event in person (without device usage) or did not attend. The outcome is a critical open question for the trajectory of the Biscuit relationship.[^activity-2026-05-15]
 
 ### May 16–26: No Follow-Up (11 Days)
 
-As of May 28, 2026 — thirteen days after the Bakin' Biscuit event — no follow-up activity with Biscuit has been observed in Jan's browser history, email, or X activity. No email to Ives or Maria, no X engagement with Biscuit content, and no visits to biscuit.so. At 13 days post-event, the follow-up window has definitively closed and the Biscuit relationship is dead. Any re-engagement would require a cold restart rather than a warm follow-up.
+As of May 28, 2026 — thirteen days after the Bakin' Biscuit event — no follow-up activity with Biscuit has been observed in Jan's browser history, email, or X activity. No email to Ives or Maria, no X engagement with Biscuit content, and no visits to biscuit.so. At 13 days post-event, the follow-up window has definitively closed and the Biscuit relationship is dead. Any re-engagement would require a cold restart rather than a warm follow-up.[^goals-2026-05-17] [^goals-2026-05-23]
 
 ### Relationship Ambiguity
 
-As of late May 2026, the Biscuit relationship has stalled completely. While the proactive email from Maria, the Bakin' Biscuit event invitation, and Jan's engagement with Biscuit content on X all suggested Biscuit was actively engaging Jan, the 13-day absence of any follow-up from Jan's side has allowed the momentum to dissipate entirely. This is part of a broader pattern of post-sprint avoidance that has affected all active leads in Jan's [[Career_Plan_2026|2026 job search pipeline]]. On May 28, Jan resumed LinkedIn job browsing — suggesting a pivot toward fresh leads rather than attempting to salvage cold relationships.
+As of late May 2026, the Biscuit relationship has stalled completely. While the proactive email from Maria, the Bakin' Biscuit event invitation, and Jan's engagement with Biscuit content on X all suggested Biscuit was actively engaging Jan, the 13-day absence of any follow-up from Jan's side has allowed the momentum to dissipate entirely. This is part of a broader pattern of post-sprint avoidance that has affected all active leads in Jan's [[Career_Plan_2026|2026 job search pipeline]]. On May 28, Jan resumed LinkedIn job browsing — suggesting a pivot toward fresh leads rather than attempting to salvage cold relationships.[^goals-2026-05-17] [^goals-2026-05-23]
 
 ## The Publican Project
 
-**Publican** is a project Jan built inside Biscuit on May 12, 2026. Based on the browser history, it involved setting up assets, data models ("Blob", "Post"), brand identity, email, workflows, and preview pages — suggesting a publishing or content management tool.
+**Publican** is a project Jan built inside Biscuit on May 12, 2026. Based on the browser history, it involved setting up assets, data models ("Blob", "Post"), brand identity, email, workflows, and preview pages — suggesting a publishing or content management tool. The exact purpose has not been publicly defined, and the GOALS document from x-and-browser-archive notes the open question: *"Define what Publican is: a personal publishing tool, a product to ship, or a showcase for Biscuit's capabilities?"*[^goals-2026-05-13]
 
 ## Connection to CodeSandbox
 
-Biscuit is created by [[Ives_van_Hoorne]], who previously founded CodeSandbox — one of the most widely-used online code editors. The transition from CodeSandbox (developer tools) to Biscuit (business building platform) represents a pivot toward a broader audience of solo builders and founders.
+Biscuit is created by [[Ives_van_Hoorne]], who previously founded CodeSandbox — one of the most widely-used online code editors. The transition from CodeSandbox (developer tools) to Biscuit (business building platform) represents a pivot toward a broader audience of solo builders and founders.[^activity-2026-05-12]
 
 ## See Also
 
@@ -71,3 +71,16 @@ Biscuit is created by [[Ives_van_Hoorne]], who previously founded CodeSandbox �
 - [[Career_Plan_2026]]
 - [[OpenPolsia]]
 - [[Jan_Wilmake]]
+- [[Amsterdam_Relocation]]
+
+[^activity-2026-05-12]: Activity summary: `x-archive/raw/activity-summary/2026-05-12.md`
+[^activity-2026-05-13]: Activity summary: `x-archive/raw/activity-summary/2026-05-13.md`
+[^browser-2026-05-12]: Browser history: `x-archive/raw/browser-history/2026-05-12.md`
+[^browser-2026-05-04]: Browser history: `x-archive/raw/browser-history/2026-05-04.md`
+[^x-posts-2026-03-27]: X post archive: `x-archive/raw/posts/2026-03-27.md`
+[^x-likes-2026-05-13]: X likes archive: `x-archive/raw/x-likes/2026-05-13.md`
+[^goals-2026-05-13]: Goals document: `x-archive/entries/GOALS.md`
+[^activity-2026-05-15]: Activity summary: `x-archive/raw/activity-summary/2026-05-15.md`
+[^goals-2026-05-15]: Goals document: `x-archive/entries/GOALS.md` (updated 2026-05-15)
+[^goals-2026-05-17]: Goals document: `x-archive/entries/GOALS.md` (updated 2026-05-17)
+[^goals-2026-05-23]: Goals document: `x-archive/entries/GOALS.md` (updated 2026-05-23)

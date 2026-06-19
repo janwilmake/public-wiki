@@ -59,12 +59,12 @@ This clustering of launches in March 2026 was the densest shipping period in Jan
 
 ## Use as Interview Portfolio Piece
 
-OpenPolsia has been shown during multiple networking and interview calls in May 2026, serving as a live demonstration of Jan's autonomous agent architecture:
+OpenPolsia has been shown during multiple interview and networking calls in May 2026, serving as a live demonstration of Jan's autonomous agent architecture:
 
-- **May 12, 2026**: Shown to [[Ives_van_Hoorne]] during the [[Biscuit]] meeting — dashboard and GitHub repository
-- **May 20, 2026**: Shown to **Floris Weers** during the [[Blixt]] intro call — dashboard visited during the call, GitHub source also referenced
+- **May 12, 2026**: Shown to [[Ives_van_Hoorne]] during the [[Biscuit]] meeting (dashboard and GitHub repo)[^activity-2026-05-12]
+- **May 20, 2026**: Shown to **Floris Weers** during the [[Blixt]] intro call (dashboard visited at ~13:14, GitHub source checked at ~13:16)[^activity-2026-05-20]
 
-The fact that Jan consistently reaches for OpenPolsia when demonstrating his work suggests it has become his primary "show, don't tell" portfolio piece — a live, running instance of an AI agent managing business operations.
+The fact that Jan consistently reaches for OpenPolsia when demonstrating his work suggests it has become his primary "show, don't tell" portfolio piece — a live, running instance of an AI agent managing business operations.[^goals-2026-05-22]
 
 ## Conceptual Significance
 
@@ -79,10 +79,13 @@ OpenPolsia represents Jan's most direct engagement with the idea of AI agents as
 - [[Agent_Friendly_Web]]
 - [[Reciprocal_Networks]]
 - [[Cloudflare_Sandbox]]
-- [[Biscuit]]
 - [[Blixt]]
+- [[Biscuit]]
 
 [^x-posts-2026-03-22]: X post archive: `x-archive/raw/posts/2026-03-22.md`
 [^x-posts-2026-03-24]: X post archive: `x-archive/raw/posts/2026-03-24.md`
 [^x-posts-2026-03-25]: X post archive: `x-archive/raw/posts/2026-03-25.md`
 [^x-bookmarks-2026-03-21]: X bookmarks archive: `x-archive/raw/bookmarks/2026-03-21.md`
+[^activity-2026-05-12]: Activity summary: `x-archive/raw/activity-summary/2026-05-12.md`
+[^activity-2026-05-20]: Activity summary: `x-archive/raw/activity-summary/2026-05-20.md`
+[^goals-2026-05-22]: Goals document: `x-archive/entries/GOALS.md` (updated 2026-05-22)

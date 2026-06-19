@@ -24,7 +24,9 @@ Jan considers Maurice part of his Dutch/Amsterdam builder network. They frequent
 
 ## Hackadam
 
-Maurice is an organiser or regular participant in **Hackadam** — a recurring hacker meetup in Amsterdam. Jan was invited to Hackadam sessions in January 2026 and March 2026, though he couldn't always attend. The format: doors open 9:30, intros 10:30, lunch 12:00, demos 16:30, hangout.[^x-bookmarks-2026-03-02]
+Maurice is an organiser or regular participant in **[[HACKADAM]]** — a recurring hacker meetup in Amsterdam. Jan was invited to Hackadam sessions in January 2026 and March 2026, though he couldn't always attend. The format: doors open 9:30, intros 10:30, lunch 12:00, demos 16:30, hangout.[^x-bookmarks-2026-03-02]
+
+For the **May 28, 2026** edition, Maurice was tagged alongside Jan in @AbnerHout's announcement tweet, confirming his continued involvement in the community.[^bookmark-2026-05-22]
 
 ## See Also
 
@@ -34,3 +36,4 @@ Maurice is an organiser or regular participant in **Hackadam** — a recurring h
 [^x-posts-2025-10-06]: X post archive: `x-archive/raw/posts/2025-10-06.md`
 [^x-posts-2026-01-30]: X post archive: `x-archive/raw/posts/2026-01-30.md`
 [^x-bookmarks-2026-03-02]: X bookmarks archive: `x-archive/raw/bookmarks/2026-03-02.md`
+[^bookmark-2026-05-22]: X bookmark: `x-archive/raw/x-bookmarks/2026-05-22.md`

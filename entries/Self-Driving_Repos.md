@@ -65,6 +65,12 @@ Also tracked: **Multica Autopilot** by Jiayuan Zhang — an open-source alternat
 
 On April 21, 2026, Jan briefly visited **Ployed.ai** — a "Managed Deployment Platform for Vibecoders." The product occupies adjacent positioning to Self-Driving Repos in the "managed AI execution" space, targeting a similar audience of developers who want agents to handle deployment and maintenance tasks without manual intervention.[^activity-2026-04-21]
 
+## May 2026: Usage as Portfolio Piece
+
+On May 11, 2026, Jan showed the `selfdrivingrepo.com` landing page to **Arsen Ibragimov** during a ~30-minute Google Meet networking/interview call (connected through Wijnand Karsens via Topliner). This represents SDR's use as a portfolio and pitch item during the active job search — demonstrating combined product thinking and technical execution to potential employers or collaborators.[^activity-2026-05-11]
+
+An inbound email about **"Your OpenAPI MCP server approach"** arrived on May 12, 2026, suggesting organic interest in Jan's agent-accessible API work — adjacent to SDR's positioning in the MCP ecosystem.[^activity-2026-05-12]
+
 ## Landing Page and Community Response
 
 On April 12, 2026, Jan posted *"roast my landing page"* with a screenshot of `selfdrivingrepo.com`, receiving feedback about the generic CTA ("GET STARTED") and missing pricing information. A user (@jhogervorst) noted the page didn't explain payment; Jan confirmed pricing at **model cost + 20%** and planned to add a pricing section.[^x-posts-2026-04-12] [^x-posts-2026-04-13]
@@ -154,3 +160,5 @@ On April 19, 2026, Jan researched **[[Cloudflare_Artifacts]]** — Cloudflare's 
 [^goals]: Goals document: `x-archive/entries/GOALS.md`
 [^activity-2026-04-19]: Activity summary: `x-archive/raw/activity-summary/2026-04-19.md`
 [^selfdrivingrepo-json]: Configuration file: `selfdrivingrepo.json` in this repository
+[^activity-2026-05-11]: Activity summary: `x-archive/raw/activity-summary/2026-05-11.md`
+[^activity-2026-05-12]: Activity summary: `x-archive/raw/activity-summary/2026-05-12.md`

@@ -80,7 +80,7 @@ On April 21, 2026, Jan read tessl.io's *"The Context Flywheel: Why the Best AI C
 
 ## Cross-Platform Personal CRM Angle (April 2026)
 
-On April 24, 2026, Jan spent 37 seconds reading a tweet by Celeste Amadon: *"I would pay anything for a CRM that tracks cross platform (texts, emails, dms) everyone I know and when I last talked with them."* GrokThyself's architecture — GitHub-stored, structured Markdown, agent-queryable — could power exactly this use case. This angle expands GrokThyself's addressable market beyond X data backup into the broader personal data sovereignty space, positioning it as *"your personal relationship memory, stored privately in GitHub, queryable by AI."*
+On April 24, 2026, Jan spent 37 seconds reading a tweet by Celeste Amadon: *"I would pay anything for a CRM that tracks cross platform (texts, emails, dms) everyone I know and when I last talked with them."* GrokThyself's architecture — GitHub-stored, structured Markdown, agent-queryable — could power exactly this use case. The GOALS.md document identified exploring a "personal CRM" positioning as a priority: *"your personal relationship memory, stored privately in GitHub, queryable by AI."* This angle expands GrokThyself's addressable market beyond X data backup into the broader personal data sovereignty space.[^activity-2026-04-24]
 
 ## Competitor Landscape
 
