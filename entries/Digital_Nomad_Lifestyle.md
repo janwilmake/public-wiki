@@ -12,7 +12,7 @@ category: Lifestyle
 
 The lifestyle involved working as a remote freelance developer while traveling through Southeast Asia, South Asia, South America, and Europe, rarely remaining in one location for more than a few months. Income came from client contracts, independent products, and in-game revenue from [[MasterCrimeZ]].
 
-A defining characteristic was the integration of physical activities (kitesurfing, hiking) with intensive work in unconventional environments: co-working spaces, mountain villages, hostels, and outdoor locations.
+A defining characteristic was the integration of physical activities (kitesurfing, hiking) with intensive work in unconventional environments: co-working spaces, mountain villages, hostels, a car, and even abandoned sheds.
 
 ## Timeline
 
@@ -29,7 +29,7 @@ Extended stays across Southeast Asia (Vietnam, Cambodia), Prague, Berlin, Budape
 
 ### 2018: Bali and Return
 
-January–April 2018 in Canggu, Bali at the **Dojo** co-working space, developing [[Communify]]. He subsequently returned to the Netherlands and took on conventional employment roles for a period.
+January–April 2018 in Canggu, Bali at the **Dojo** co-working space, developing [[Communify]]. A medical episode in April 2018 led to repatriation to the Netherlands.
 
 ### 2020: Tarifa, Spain
 
@@ -52,7 +52,7 @@ The most geographically intensive phase:
 
 ### Residual Nomadic Patterns (2024)
 
-Although largely settled in Groningen by 2024, traces of nomadic working persisted. After his Slimmer.ai contract ended in July 2024, Wilmake worked full-time on [[ActionSchema]] from outdoor locations around Groningen — the Zeegse duinen, the Gieten heath, cafés, and parks — running on a laptop and powerbank during summer months.
+Although largely settled in [[Groningen]] by 2024, traces of nomadic working persisted. After his Slimmer.ai contract ended in July 2024, Wilmake worked full-time on [[ActionSchema]] from outdoor locations around Groningen — the Zeegse duinen, the Gieten heath, cafés, and parks — running on a laptop and powerbank, camping and working in nature for extended stretches during the summer. He described this period as a near-ideal environment for focused solo product development.
 
 ### Settled Life (2024–Present)
 
@@ -68,7 +68,7 @@ By late 2024, the nomadic phase gave way to a more stable Groningen-based existe
 
 Key principles from the nomadic period:
 - Geographic distributed teams are viable and often preferable
-- Living cheaply enables entrepreneurial risk-taking
+- Living cheaply (at times under €600/month) enables entrepreneurial risk-taking
 - Physical activities complement rather than oppose intensive coding work
 
 ## See Also
@@ -77,3 +77,4 @@ Key principles from the nomadic period:
 - [[Code_From_Anywhere]]
 - [[Communify]]
 - [[Chat_AI]]
+- [[Groningen]]
