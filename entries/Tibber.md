@@ -13,9 +13,9 @@ category: Organizations
 | Date | Event |
 |------|-------|
 | June 18, 2026 | Browsed the Tibber Senior Fullstack Engineer listing on LinkedIn during a post-[[IMAGIN_studio]] interview decompression session[^activity-2026-06-18] |
-| June 22, 2026 (14:37–14:42) | Received and reviewed a **Tibber interview invite** via email; spent ~4 minutes managing interview scheduling emails[^activity-2026-06-22] |
+| June 22, 2026 (14:37–14:42) | Received and reviewed a **Tibber interview invite** via Fastmail; spent ~4 minutes managing interview scheduling emails alongside [[Ecomflow]] follow-ups[^activity-2026-06-22] |
 | June 22, 2026 (14:38) | Googled "cet time" — likely checking Central European Time for scheduling the Tibber interview across time zones[^activity-2026-06-22] |
-| June 23, 2026 (06:00) | Checked a *"Time confirmed — Tibber \| Interview invite"* email — confirming the interview is scheduled[^activity-2026-06-23] |
+| June 23, 2026 (06:00) | Checked a *"Time confirmed — Tibber \| Interview invite"* email in Fastmail — confirming the interview is scheduled[^activity-2026-06-23] |
 
 ## Context in the 2026 Job Search
 
@@ -32,8 +32,8 @@ The Tibber role is notable because it aligns with Jan's emerging interest in **E
 The Senior Fullstack Engineer role at Tibber aligns with Jan's profile on several dimensions:
 
 - **TypeScript/fullstack** — matches Jan's core stack
-- **Smart energy / sustainability** — aligns with Jan's longstanding interest in environmental topics
-- **Remote-friendly Scandinavian company** — compatible with Jan's [[Groningen]] base and planned relocation
+- **Smart energy / sustainability** — aligns with Jan's longstanding interest in environmental topics (documented in blog posts dating back to 2017)[^blog-2017-reverting]
+- **Remote-friendly Scandinavian company** — compatible with Jan's [[Groningen]] base and eventual [[Amsterdam_Relocation|Amsterdam relocation]] plans
 
 ## See Also
 
@@ -47,3 +47,4 @@ The Senior Fullstack Engineer role at Tibber aligns with Jan's profile on severa
 [^activity-2026-06-18]: Activity summary: `x-archive/raw/activity-summary/2026-06-18.md`
 [^activity-2026-06-22]: Activity summary: `x-archive/raw/activity-summary/2026-06-22.md`
 [^activity-2026-06-23]: Activity summary: `x-archive/raw/activity-summary/2026-06-23.md`
+[^blog-2017-reverting]: Blog post: `blog/2017/reverting-global-warming.md`

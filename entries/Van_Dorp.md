@@ -28,9 +28,9 @@ The Van Dorp role centres on building **Energy Management Systems (EMS)** — so
 
 Van Dorp represents a departure from the AI-startup roles that have dominated Jan's [[Career_Plan_2026|2026 job search]] (e.g. [[Hyre]], [[IMAGIN_studio]], [[Ecomflow]]). As a traditional Dutch building services company, it would offer:[^activity-2026-06-23]
 
-- **Stable employment** — easier for rental qualification
+- **Stable employment** — easier for rental qualification (relevant to the [[Amsterdam_Relocation|Amsterdam housing search]])
 - **TypeScript stack** — directly matching Jan's core expertise
-- **Nieuwegein office** — on Ringwade 6, 3439 LM, which Jan looked up on Google Maps from [[Groningen]] on June 22[^activity-2026-06-22]
+- **Physical location**: the Nieuwegein office (Ringwade 6, 3439 LM) was looked up on Google Maps from [[Groningen]] on June 22 — approximately 2h15m drive[^activity-2026-06-22]
 
 ## See Also
 

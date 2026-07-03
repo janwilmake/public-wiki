@@ -1,6 +1,6 @@
 ---
 title: World Cup 2026
-description: FIFA World Cup 2026 became a daily ritual for Jan Wilmake; thirteen consecutive days of engagement (June 13–25) spanning live matches, format research, football statistics deep-dives, and morning results checking
+description: FIFA World Cup 2026 became a daily ritual for Jan Wilmake; sixteen consecutive days of engagement (June 11–26) spanning live matches, format research, football statistics deep-dives, Claude bracket analysis, and midnight viewing of Netherlands vs Tunisia
 category: Events
 ---
 
@@ -134,9 +134,21 @@ Earlier on June 23, Jan's first WK action was a Google search for **"noorwegen s
 
 June 24 was a leisure day with no live match viewing — the second match-free day since the streak began. However, WK awareness persisted: Jan checked **NOS Sport** briefly in the evening (19:50), and the day's YouTube rabbit-hole covered global travel and expat content that echoes the international themes of the World Cup. The football-free evening was spent watching Netflix, YouTube travel vlogs, and checking weather during a heatwave (Code Orange in France — the hottest day ever recorded). The WK pause was bookended by significant [[Ecomflow]] interview preparation.[^activity-2026-06-24]
 
-## June 25: Streak Continues
+## June 25: Scotland vs Brazil + Netherlands Route to Final
 
-As of June 25, the WK engagement streak has reached **thirteen consecutive days** (June 13–25), with only June 21 and June 24 lacking live match broadcasts. The pattern has evolved through distinct phases: full-day viewing (June 14), integrated evening ritual (June 15–20), morning results checking (June 23), analytical statistics deep-dives (June 23), and now background awareness during interview-focused days (June 24–25).[^activity-2026-06-25]
+On June 25, Jan watched the **WK 2026 Group C highlights** — specifically *"Samenvatting Schotland - Brazilië"* (Scotland vs Brazil) on NOS YouTube (~7.5 minutes at 08:24). He also briefly Googled **Neymar** for WK context. The football viewing was interspersed with the [[Ecomflow]] second interview preparation and the interview itself (11:28–11:40).[^activity-2026-06-25]
+
+In the evening, the WK returned as the main activity. Jan used Claude for an extended session (~14 minutes) on *"Brazil's round of 32 opponent"* — working out the WK 2026 knockout bracket projections. He also searched *"wk australia"* to check Australia's tournament status. The evening culminated in watching **Ecuador vs Germany (1-1)** live on NOS (20:28–20:50), with the pre-match build-up starting earlier. A second WK match — **Netherlands vs Tunisia** in Kansas City — had its **pre-match build-up starting at 22:31** on NOS, extending past midnight into June 26.[^activity-2026-06-25]
+
+## June 25–26: Netherlands vs Tunisia — Midnight Viewing
+
+The **Netherlands vs Tunisia** match (WK 2026 Group C, Kansas City) was Jan's latest-ever WK viewing session. Pre-match coverage began at **22:31 on June 25**, and the match itself ran from **midnight through at least 01:01 on June 26**. Jan watched approximately 50 minutes of continuous NOS coverage across pre-match and live play. During the match, he checked the parallel **Japan vs Sweden (0-0)** livestream (00:17), looked up Netherlands coach **Patrick Kluivert** on Wikipedia (00:39), and Googled *"wk japan"* to check standings (00:53). WhatsApp was active alongside — likely a group chat about the match.[^activity-2026-06-25] [^activity-2026-06-26]
+
+The morning after (June 26), Jan immediately checked the Netherlands' **potential route to the WK final** via a **De Telegraaf** article: *"Speelschema Nederland WK 2026 — mogelijke route naar finale"* — which discussed a potential Morocco quarterfinal and an enticing bracket. He also Googled *"netherlands morocco wk"*. This is the deepest Jan has gone into forward-looking tournament analysis — projecting knockout-round paths rather than simply consuming live matches.[^activity-2026-06-26]
+
+## June 25–26: Streak Summary
+
+As of June 26, the WK engagement streak has reached **sixteen consecutive days** (June 11–26), with only June 21 and June 24 lacking live match broadcasts. The pattern has evolved through distinct phases: early interest and clips (June 11–12), full-day viewing (June 14), integrated evening ritual (June 15–20), format research (June 21), analytical statistics deep-dives with Claude (June 23), knockout bracket projections (June 25), and now midnight live viewing with morning route-to-final analysis (June 25–26).[^activity-2026-06-25] [^activity-2026-06-26]
 
 ## Emotional Context
 
@@ -146,7 +158,7 @@ From June 15 onward, the WK has become a **daily background ritual** rather than
 
 By June 19–20, the post-interview waiting period sees the WK ritual continue unbroken. The Netherlands vs Sweden match on June 20 drew the most extensive single-match coverage: 37 minutes of pre-match followed by 2+ hours of live viewing.[^activity-2026-06-19] [^activity-2026-06-20]
 
-By June 21–25, the WK has become fully embedded in Jan's daily routine. Even on June 21 — the first day without a live match — Jan still spent 12 minutes researching the tournament format with Claude. On June 22, the Argentina vs Austria match drew nearly 2 hours of continuous viewing. By June 23, WK results are checked within minutes of waking up and Claude is used for ~45 minutes of football statistics research alongside the Portugal–Uzbekistan match. June 24 was a match-free rest day during a European heatwave, but NOS Sport was still checked. The World Cup has become the structural anchor of Jan's evenings, a morning information ritual, and now an analytical hobby — thirteen consecutive days of engagement from June 13 through June 25.[^activity-2026-06-21] [^activity-2026-06-22] [^activity-2026-06-23] [^activity-2026-06-24] [^activity-2026-06-25]
+By June 21–26, the WK has become fully embedded in Jan's daily routine. Even on June 21 — the first day without a live match — Jan still spent 12 minutes researching the tournament format with Claude. On June 22, the Argentina vs Austria match drew nearly 2 hours of continuous viewing. By June 23, WK results are checked within minutes of waking up and Claude is used for ~45 minutes of football statistics research alongside the Portugal–Uzbekistan match. June 24 was a match-free rest day during a European heatwave, but NOS Sport was still checked. By June 25–26, Jan is watching Netherlands matches *past midnight*, projecting knockout bracket paths with Claude, and reading De Telegraaf route-to-final analysis first thing in the morning. The World Cup has become the structural anchor of Jan's evenings, a morning information ritual, an analytical hobby, and now a late-night social event — sixteen consecutive days of engagement from June 11 through June 26.[^activity-2026-06-21] [^activity-2026-06-22] [^activity-2026-06-23] [^activity-2026-06-24] [^activity-2026-06-25] [^activity-2026-06-26]
 
 ## See Also
 
@@ -173,4 +185,5 @@ By June 21–25, the WK has become fully embedded in Jan's daily routine. Even o
 [^activity-2026-06-23]: Activity summary: `x-archive/raw/activity-summary/2026-06-23.md`
 [^activity-2026-06-24]: Activity summary: `x-archive/raw/activity-summary/2026-06-24.md`
 [^activity-2026-06-25]: Activity summary: `x-archive/raw/activity-summary/2026-06-25.md`
+[^activity-2026-06-26]: Activity summary: `x-archive/raw/activity-summary/2026-06-26.md`
 [^goals-2026-06-17]: Goals document: `x-archive/entries/GOALS.md` (updated 2026-06-17)
