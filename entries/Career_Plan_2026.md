@@ -1,6 +1,6 @@
 ---
 title: Career Plan 2026
-description: Jan Wilmake's 2026 job search; Hyre in-person meeting and IMAGIN.studio second interview mark peak interview week June 17–18
+description: Jan Wilmake's 2026 job search; six active pipelines by late June with Ecomflow as frontrunner after second interview June 25, housing pivoting between Utrecht and Amsterdam, and Tibber interview scheduled
 category: Career
 ---
 
@@ -482,7 +482,7 @@ June 4 and 5 were leisure-dominated: Netflix (including watching *Extinction* 20
 
 ### June 6: IND Immigration Forms + Hyre.io Discovery
 
-June 6 brought a significant new signal: Jan downloaded the **IND (Dutch Immigration) "Declaration on income of self-employed person"** form (`ind.nl/en/forms/7612.pdf`) and the Dutch-language version, spending ~3.5 minutes reviewing them. He also searched *"ind is accountant verplicht"* (is an accountant required for IND). This is likely related to [[Bruna]]'s immigration/visa requirements — the IND income declaration is typically needed for sponsoring a partner's residence permit.[^browser-2026-06-06]
+June 6 brought a significant new signal: Jan downloaded the **IND (Dutch Immigration) "Declaration on income of self-employed person"** form (`ind.nl/en/forms/7612.pdf`) and the Dutch-language version, spending ~3.5 minutes reviewing them. He also searched *"ind is accountant verplicht"* (is an accountant required for IND) — researching Dutch immigration income-declaration requirements.[^browser-2026-06-06]
 
 Additionally, Jan searched for Supabase/Postgres row limits — suggesting active technical work — and researched *Data Annotation* as a potential income source (visiting a Reddit thread about it).[^browser-2026-06-06]
 
@@ -504,7 +504,7 @@ This was the first observed use of Claude specifically for interview preparation
 
 On June 8, Jan **RSVP'd for the aiGrunn Café @ Niemeyer** event (June 10, Groningen) — signing up via Google Forms after reading the email invite. This is the first confirmed local tech meetup attendance since the [[HACKADAM]] invite on May 28.[^browser-2026-06-08]
 
-Jan also reviewed [[Bruna]]'s **Pull Request #1** on the `janwilmake/yumscan` repository (*"Add async scan jobs with polling endpoint"*) and continued LinkedIn networking, including viewing a **Senior Front-end developer / AI** freelance role at Morgan Black and exploring **Wovian** (Data & AI Co-founder role).[^browser-2026-06-08]
+Jan also reviewed a **Pull Request #1** on the `janwilmake/yumscan` repository (*"Add async scan jobs with polling endpoint"*) and continued LinkedIn networking, including viewing a **Senior Front-end developer / AI** freelance role at Morgan Black and exploring **Wovian** (Data & AI Co-founder role).[^browser-2026-06-08]
 
 A meeting with **Luc from Hyre.io** was initially flagged as spam in Fastmail but later recovered — scheduled for June 10 at 14:30 CEST.[^browser-2026-06-08]
 
@@ -547,10 +547,10 @@ Additional X browsing surfaced: the **Parallel Web Systems** announcement that t
 - 🟢 **Hyre.io meeting completed June 10** — AI recruiting tool; may generate additional leads
 - 🟢 **aiGrunn Café attended June 10** — local Groningen AI meetup networking
 - 🟢 **Extended Claude session on job strategy** — "Finding a job effectively" (25 min) — signals deliberate strategic recalibration
-- 🟡 **IND immigration forms** — June 6: income declaration forms reviewed; likely for [[Bruna]]'s visa
+- 🟡 **IND immigration forms** — June 6: income declaration forms reviewed
 - 🟡 **Amsterdam relocation planning intensifying** — Claude "Moving to Amsterdam on 65k salary" + Funda searches across Zaandam/Purmerend/Haarlem/Amsterdam
 - 🟡 **OpenZeppelin and Mapbox rejections received** — June 5
-- 🟡 **[[YumScan]] development continuing** — Bruna contributed PR #1 (async scan jobs) on June 8[^browser-2026-06-02] [^browser-2026-06-03] [^browser-2026-06-05] [^browser-2026-06-06] [^browser-2026-06-07] [^browser-2026-06-08] [^browser-2026-06-09] [^browser-2026-06-10]
+- 🟡 **[[YumScan]] development continuing** — PR #1 (async scan jobs) merged June 8[^browser-2026-06-02] [^browser-2026-06-03] [^browser-2026-06-05] [^browser-2026-06-06] [^browser-2026-06-07] [^browser-2026-06-08] [^browser-2026-06-09] [^browser-2026-06-10]
 
 ### Behavioural Pattern: New Sprint Cycle (June 2–10)
 
@@ -620,8 +620,6 @@ The June 2–10 sprint (documented above) has accelerated into the most producti
 
 The risk: this sprint mirrors the May 14–20 pattern (Moyai → Blixt → crash), where a burst of activity was followed by an extended avoidance period. Whether Jan can maintain momentum through the weekend of June 13–14 will be a key indicator of sustainable job-search behaviour.[^goals-2026-06-12]
 
-## Active Side Projects (April–May 2026)
-
 ### June 13–17: Peak Interview Week — Hyre and IMAGIN.studio Converge
 
 The period of June 13–17 represents the **most consequential interview week** of the entire 2026 job search, with the pipeline narrowing to two frontrunners: [[Hyre]] and [[IMAGIN_studio]].
@@ -632,7 +630,7 @@ The period of June 13–17 represents the **most consequential interview week** 
 
 **June 15 (Monday)**: Calendar management day. Jan confirmed three critical upcoming interviews: Hyre intro call (June 16), Hyre in-person + Case Wijnand (June 17), and **IMAGIN.studio second interview (June 18, 3:15pm)**. Concentrated Hyre prep from 15:49–16:36. Evening: WK football (Spain–Cape Verde, Belgium–Egypt). Also browsed Bangkok/Thailand expat condo content — a new lifestyle exploration thread.[^activity-2026-06-15]
 
-**June 16 (Tuesday)**: Milestone day. Morning: polished the Hyre MCP Case Study into `CASE.html` and PDF, used Claude for salary modelling, **sent follow-up email at 09:58** ("Vervolgstappen na ons gesprek — enthousiast!"). At 10:13: **Hyre intro call with Wijnand & Marco (Google Meet)** completed. Evening: planned Groningen → Amsterdam route (Topaasstraat 8 to Brouwersgracht 238, ~2h by train). A major paragliding YouTube deep-dive dominated the afternoon (thermalling tutorials, Karakoram expeditions).[^activity-2026-06-16]
+**June 16 (Tuesday)**: Milestone day. Morning: polished the Hyre MCP Case Study into `CASE.html` and PDF, used Claude for salary modelling, **sent follow-up email at 09:58** ("Vervolgstappen na ons gesprek — enthousiast!"). At 10:13: **Hyre intro call with Wijnand & Marco (Google Meet)** completed. Evening: planned Groningen → Amsterdam route (~2h by train to Brouwersgracht 238). A major paragliding YouTube deep-dive dominated the afternoon (thermalling tutorials, Karakoram expeditions).[^activity-2026-06-16]
 
 **June 17 (Wednesday)**: The decisive day. Two [[Hyre]] meetings: **in-person meeting at 11am–12pm** (Brouwersgracht 238, Amsterdam) and **"Case Wijnand" technical presentation at 3pm–4pm**. The IMAGIN.studio second interview follows **tomorrow June 18**.[^activity-2026-06-17]
 
