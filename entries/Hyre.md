@@ -1,6 +1,6 @@
 ---
 title: Hyre
-description: AI recruiting platform; Jan Wilmake completed full interview cycle (MCP assessment, intro call, in-person meeting, case presentation) by June 17, 2026 for a Founding Engineer role; awaiting outcome
+description: AI recruiting platform where Jan Wilmake works as ZZP developer (contract signed Jul 5–6, 2026); stewarding a 230k LOC vibecoded codebase, executing the Platform Stability Epic (Week 3), and building the Hyre MCP server
 category: Organizations
 ---
 
@@ -112,7 +112,7 @@ At **07:03**, a Fastmail email confirmed the interview attendees: **Wijnand, Rei
 Post-meeting (from 11:08), Jan navigated to **Eetcafé KANIS** (Levantkade 127) and **Gedempt Hamerkanaal 33** — likely lunch and a working café. He then:[^activity-2026-06-17]
 
 - Checked email: *"Meeting Wijnand Karsens / Emilio Spilberg"* — a post-interview email thread
-- Used Claude for an extensive session on *"Independent contractor status and housing rental eligibility"* (~13 minutes) — connecting the Hyre opportunity to his [[Amsterdam_Relocation|Amsterdam housing search]]
+- Used Claude for an extensive session on *"Independent contractor status and housing rental eligibility"* (~13 minutes)
 - Browsed **Socket.dev careers** briefly
 - Worked on a **"pizzapanic" Supabase project** — a side project or demo
 - At **14:28**, sent his **CV to Wijnand** (confirmed via Fastmail Sent folder)
@@ -126,21 +126,88 @@ The **Case Wijnand** session was scheduled for 15:00–16:00 CEST. A browser his
 
 The evening was spent watching **Portugal vs DR Congo (WK 2026)** on NOS (score 1-1 during viewing), with a Claude rabbit-hole about World Cup country code combinations and a geology detour about the Transgondwanan Supermountain.[^activity-2026-06-17]
 
-## Current Status (as of June 20)
+## ZZP Contract Signed (~July 5–6, 2026)
 
-Per the GOALS document updated June 20:[^goals-2026-06-20]
+After the complete interview cycle (discovery June 10 → in-person meeting and case presentation June 17), Hyre extended an offer. Jan signed a **ZZP (freelance) contract** with Hyre around **July 5–6, 2026**. This represents the **fastest progression** in the entire 2026 job search: from discovery to signed contract in under 4 weeks.[^goals-2026-07-12]
 
-- ✅ **Meeting with Luc van Poll** — completed June 10 (~25 min)
-- ✅ **MCP Case Study** — completed Saturday June 13; polished June 16
-- ✅ **Follow-up email sent** — "Vervolgstappen na ons gesprek — enthousiast!" sent June 16 at 09:58
-- ✅ **Intro call with Wijnand & Marco** — completed June 16 via Google Meet
-- ✅ **In-person meeting (Rein, Ronnie, Wijnand)** — completed June 17, 11:00–12:00 CEST at Brouwersgracht 238, Amsterdam
-- ✅ **Case Wijnand presentation** — completed June 17, 15:00–16:00 CEST
-- ✅ **CV sent to Wijnand** — June 17 at 14:28
-- 🔴 **3 days post-meeting, zero response** — no Hyre emails visible in browser history on June 18, 19, or 20; the GOALS document flags this as **OVERDUE** for a follow-up email[^goals-2026-06-20]
-- 🟡 **Weekend risk** — June 20 (Friday) was identified as the last natural business-hours opportunity to follow up before the weekend
+## Week 1: Sprint Planning and Code Audit (July 7–9)
 
-This represents the **fastest progression** in the entire 2026 job search — from discovery (June 10) to completed in-person meeting and case presentation (June 17) in just 7 days. However, the 3-day silence post-meeting is the longest gap without response in the entire Hyre thread.
+Jan's first working week centred on understanding the codebase and planning the work ahead:[^goals-2026-07-12]
+
+| Date | Activity |
+|------|----------|
+| Jul 7 | **Sprint planning** (Google Meet) — defined the **Platform Stability Epic** (`HYR2-436`); issues in focus: HubSpot OAuth, email improvements, outreach features, onboarding completeness indicator, profile linking rework |
+| Jul 7 | Opened **Code Audit PR #146** — an initial foothold in the codebase |
+| Jul 8 | Heavy development day using **Fable + Claude Opus API** — spent **>$100 in API costs** in a single day of vibecoding[^x-posts-2026-07-08] |
+| Jul 9 | Subscribed to **Claude Max** to replace expensive API usage; announced on X: *"Wooooop! Finally got max. Back to coding; building the best MCP for recruitment agencies!"* (9 likes)[^x-posts-2026-07-09] |
+
+## The 230k LOC Vibecoded Codebase
+
+On **July 11, 2026**, Jan publicly revealed the scale of what he had taken on:[^x-posts-2026-07-11]
+
+> *"i am working with a largely vibecoded 230k loc codebase right now that im taking responsibility of. I wanna: (1) create a habit of prompting that increases my understanding as a side-effect, (2) create a ci/cd process with ai review that ensures complexity doesn't add up, (3) [thread continued]"*
+
+This tweet followed a **viral reflection** posted the previous evening (July 10, 18 likes): *"so before ai coding it would take much longer to build a codebase up to like 100k loc... but now its like peanuts but the problem is nobody understands crap."* The tweet spawned a major debate with 30+ replies, including notable responses from @mattpocockuk (delegation skills for team leads), @waincarver ("archaeological ruins" analogy — AI code layered on hand-built projects), and @iwhaleocean ("we automated writing faster than we automated understanding").[^x-posts-2026-07-10] [^activity-2026-07-11]
+
+Jan endorsed @OSalberger's tactical insight that **type interfaces are where the decisions concentrate** — a strategy he appears to be adopting for navigating the Hyre codebase. He also retweeted Kenton Varda's **moratorium on AI-written change descriptions** (PR/commit messages, issues/tickets), aligning with disciplined AI development practices.[^x-posts-2026-07-08] [^x-posts-2026-07-11]
+
+### Technical Stack (Inferred)
+
+The Hyre codebase is built on **Next.js + Supabase + Inngest + Unipile**, totalling approximately 230,000 lines of code — much of it AI-generated ("vibecoded"). The platform includes conversation management, candidate pipelines, email channels, HubSpot CRM integration, and MCP token infrastructure.[^goals-2026-07-12]
+
+## Platform Stability Epic (HYR2-436)
+
+Jan's primary sprint assignment is the **Platform Stability Epic**, covering:[^goals-2026-07-12]
+
+| Issue | Description | Status |
+|-------|-------------|--------|
+| HYR2-352 | HubSpot CRM OAuth integration (Unified.to) | 🔴 Blocked — OAuth scopes |
+| HYR2-440 | DB rework | 🔴 In progress — blocks multiple downstream issues |
+| HYR2-441 | Profile linking rework | Blocked by HYR2-440 |
+| HYR2-444 | People & integrations redesign | 🟡 HTML prototype done |
+| HYR3-50 | Conversations AI action column | 🟡 In design |
+| HYR2-456 | Ask AI vs MCP tradeoff | 🟡 Architectural decision pending |
+| HYR2-460 | Remove Agents entirely except AI reply | 🟡 Simplification pressure |
+
+## Building the Hyre MCP Server
+
+Jan's personal ambition within Hyre is to build **"the best MCP for recruitment agencies"** — announced on X on July 9.[^x-posts-2026-07-09] Relevant Linear issues:[^goals-2026-07-12]
+
+- **HYR2-439** — "Move towards MCP" (strategic decision item)
+- **HYR3-34** — "MCP server read" (implementation item)
+
+MCP token infrastructure (`mcp-tokens`, `mcp-permissions` admin pages) already exists at `app.hyre.io/dashboard/admin/mcp-tokens`. Jan's prior MCP experience — from the interview case study (`janwilmake/hyre-mcp`), his work at [[Parallel_AI]], and tools like [[ContextArea]] and [[installthismcp]] — gives him a strong head start. The HYR2-456 architectural decision (Ask AI vs MCP) must be resolved before full MCP implementation can proceed.[^goals-2026-07-12]
+
+## Upcoming: "Recruitment voor dummies" Event
+
+A **"Recruitment voor dummies"** event is scheduled for **Thursday, July 16, 2026** at 5–6pm CEST. This appears to be a recruitment-industry networking event relevant to Hyre's domain.[^goals-2026-07-12]
+
+## Week 2–3: Viral Debate and Workflow Breakthroughs (July 10–15)
+
+The second and third weeks at Hyre were marked by a [[Vibecoding_Comprehension_Debate|viral public debate]] on AI codebase comprehension and significant workflow discoveries:[^activity-2026-07-10] [^activity-2026-07-11] [^activity-2026-07-12] [^activity-2026-07-13]
+
+| Date | Event |
+|------|-------|
+| Jul 10 | Viral tweet: *"nobody understands crap"* — 18 likes, spawned 30+ reply debate on AI-generated codebases |
+| Jul 11 | Revealed the 230k LOC context; publicly articulated 3-part stewardship plan |
+| Jul 12 | RT'd @badlogicgames (264 likes): *"control the types and interfaces, the rest usually falls into place"* — day 3 of debate attracted @antirez (Redis creator) and @badlogicgames (libGDX creator) |
+| Jul 13 | **Claude sandbox mode discovered** — eliminated significant time wasted manually approving bash commands; RT'd @MatijaSosic (*"learning was baked into coding; now it isn't"*); proposed **AI-generated 60-second PR explainer videos** (with @MatijaSosic and @stevekrouse); polled community on parallel agent count (responses: 6–10 agents, one git worktree each) |
+| Jul 13 | RT'd and praised **@p0 Parallel Search Turbo** launch (313 likes) — directly relevant to Hyre MCP and agent workflows |
+
+The sandbox mode discovery is particularly significant: Jan had been losing time hitting Enter to approve bash commands every 10–30 seconds, preventing him from focusing on parallel agents or reading. This unlocked a more productive multi-agent workflow for the Hyre codebase.[^activity-2026-07-13]
+
+## Current Status (as of July 15, 2026)
+
+- ✅ **ZZP contract signed** — ~Jul 5–6
+- ✅ **Code Audit PR #146** — opened Jul 7; awaiting review
+- ✅ **Claude Max active** — subscribed Jul 9; replacing $100+/day API costs
+- ✅ **Claude sandbox mode** — discovered Jul 13; significant workflow improvement
+- ✅ **Sprint planning completed** — Platform Stability Epic defined; now in Week 3
+- 🔴 **DB rework (HYR2-440)** — primary blocker; in progress
+- 🔴 **HubSpot OAuth (HYR2-352)** — blocked on scope issues
+- 🟡 **MCP server design** — waiting on HYR2-456 architectural decision
+- 🆕 **230k LOC codebase stewardship** — strategy crystallising around type-interface-first navigation, prompting habits for understanding, and AI-reviewed CI/CD
+- 🆕 **"Recruitment voor dummies" event** — scheduled for Jul 16 (tomorrow)
 
 ## See Also
 
@@ -151,7 +218,7 @@ This represents the **fastest progression** in the entire 2026 job search — fr
 - [[World_Cup_2026]]
 - [[IMAGIN_studio]]
 - [[Groningen]]
-- [[Amsterdam_Relocation]]
+- [[Vibecoding_Comprehension_Debate]]
 
 [^activity-2026-06-10]: Activity summary: `x-archive/raw/activity-summary/2026-06-10.md`
 [^activity-2026-06-11]: Activity summary: `x-archive/raw/activity-summary/2026-06-11.md`
@@ -163,3 +230,12 @@ This represents the **fastest progression** in the entire 2026 job search — fr
 [^goals-2026-06-17]: Goals document: `x-archive/entries/GOALS.md` (updated 2026-06-17)
 [^goals-2026-06-19]: Goals document: `x-archive/entries/GOALS.md` (updated 2026-06-19)
 [^goals-2026-06-20]: Goals document: `x-archive/entries/GOALS.md` (updated 2026-06-20)
+[^goals-2026-07-12]: Goals document: `x-archive/entries/GOALS.md` (updated 2026-07-12)
+[^x-posts-2026-07-08]: X posts: `x-archive/raw/x-posts/2026-07-08.md`
+[^x-posts-2026-07-09]: X posts: `x-archive/raw/x-posts/2026-07-09.md`
+[^x-posts-2026-07-10]: X posts: `x-archive/raw/x-posts/2026-07-10.md`
+[^x-posts-2026-07-11]: X posts: `x-archive/raw/x-posts/2026-07-11.md`
+[^activity-2026-07-11]: Activity summary: `x-archive/raw/activity-summary/2026-07-11.md`
+[^activity-2026-07-10]: Activity summary: `x-archive/raw/activity-summary/2026-07-10.md`
+[^activity-2026-07-12]: Activity summary: `x-archive/raw/activity-summary/2026-07-12.md`
+[^activity-2026-07-13]: Activity summary: `x-archive/raw/activity-summary/2026-07-13.md`

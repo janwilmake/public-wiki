@@ -24,6 +24,10 @@ The 2026 job search comes after a year in which Wilmake declined a notable numbe
 
 This pattern reflects a recurring tension between independence and financial security that Wilmake has acknowledged in his diaries, and informs his more pragmatic approach to employment in 2026.[^diary-2025]
 
+## Financial Position
+
+As of early 2026, Wilmake holds sufficient runway to pursue a selective job search through the end of 2026 without immediate financial pressure, following income earned during the [[Parallel_AI]] engagement in late 2025.[^earnings]
+
 ## Target Role Profile
 
 Stated preferences:[^career-plan]
@@ -137,7 +141,7 @@ The continued broadening of job search targets — from focused Amsterdam startu
 
 ### Personal Development (April 19)
 
-In the evening of April 19, Jan browsed personal development podcasts including *"Dare to Lead"*, The Happiness Lab (an episode on forgiveness), and the On Being Project. He also watched Nikhyl Singhal's ~1 hour talk on *"Half of PMs are becoming dinosaurs"* — processing what AI means for his own professional positioning — signalling intentional personal reflection running in parallel with the job search.[^activity-2026-04-19]
+In the evening of April 19, Jan browsed personal development podcasts including *"Dare to Lead"*, The Happiness Lab (an episode on forgiveness), and the On Being Project. He also watched Nikhyl Singhal's ~1 hour talk on *"Half of PMs are becoming dinosaurs"* — processing what AI means for his own professional positioning — signalling intentional reflection running in parallel with the job search.[^activity-2026-04-19]
 
 ### April 20: MCP Deep-Dive, Topliner, and Amsterdam Apartment Hunting
 
